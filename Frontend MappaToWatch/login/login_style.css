@@ -7,7 +7,7 @@
 .banner{
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),url(1330505.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.375), rgba(0, 0, 0, 0.375)),url(https://rare-gallery.com/mocahbig/1329222-Takt-Asahina-Destiny-Takt-Op.-DestinyTakt-Op.-Destiny.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -74,57 +74,35 @@
     color:#162938;
 }
 
-.content{
-    width: 100%;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    text-align: center;
-    color: #fff;
-}
-
-.content h1{
-    font-size: 70px;
-    margin-top: 80px;
-}
-
-.content p{
-    margin: 20px auto;
-    font-weight: 100;
-    line-height: 25px;
-}
-
-button{
-    width: 200px;
-    padding: 15px 0;
-    text-align: center;
-    margin: 20px 10px;
-    border-radius: 25px;
-    font-weight: bold;
-    border: 2px solid #009688;
-    background: transparent;
-    color: #fff;
-    cursor: pointer;
+.wrapper{
     position: relative;
-    overflow: hidden;
-}
-
-span{
-    background: #009688;
-    height: 100%;
-    width: 0;
+    width: 440px;
+    height: 440px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.5);
     border-radius: 25px;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    z-index: -1;
-    transition: 0.5s;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-button:hover span{
+.wrapper .login_formbox{
     width: 100%;
+    padding: 40px;
 }
 
-button:hover{
-    border: none;
+.login_formbox h2{
+    font-size: 2em;
+    color: #fff;
+    text-align: center;
+}
+
+.Input-box{
+    position: relative;
+    width: 100%;
+    height: 50%;
+    border-bottom: 2px solid #fff;
+    margin: 30px 0;
 }

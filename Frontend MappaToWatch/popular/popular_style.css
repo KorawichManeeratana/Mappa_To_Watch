@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.banner{
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.375), rgba(0, 0, 0, 0.375)),url(https://images.saymedia-content.com/.image/t_share/MTc1MTE0OTQ2MTQ4MTE2Mjky/reapers-reviews-attack-on-titan-s3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.naver{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.freedom{
+    width: 100px;
+    cursor: pointer;
+}
+
+.naver ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+.naver ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.naver ul li::after{
+    content: "";
+    height: 3px;
+    width: 0;
+    background: aqua;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
+}
+
+.naver ul li:hover::after{
+    width: 100%;
+}
+
+.naver button{
+    width: 130px;
+    height: 50px;
+    background: transparent;
+    border: 2px solid #fff;
+    outline: none;
+    border-radius: 6px;
+    cursor:pointer;
+    font-size: 1.1em;
+    color:#fff;
+    font-weight: 500;
+    margin-left: 0 20px;
+    transition: 0.5s;
+}
+
+.naver button:hover{
+    background: #fff;
+    color:#162938;
+}
+
+.column1_content h2 a{
+    text-decoration: none;
+    color: #162328;
+    text-transform: uppercase;
+    font-weight: 600;
+    width: 85%;
+    margin: 50%;
+    padding: 35px 0;
+}
+
+.column1_content .kakegurui{
+    align-items: center;
+    width: 150%;
+    height: 100%;
+    margin: 20%;
+    margin-top: 10px;
+}
+
+.column2_content h2 a{
+    text-decoration: none;
+    color: #162328;
+    text-transform: uppercase;
+    font-weight: 600;
+    width: 85%;
+    margin: 90%;
+    padding: 35px 0;
+}
+
+.column2_content .jujut{
+    align-items: center;
+    width: 200%;
+    height: 100%;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.column3_content h2 a{
+    align-items: center;
+    text-decoration: none;
+    color: #162328;
+    text-transform: uppercase;
+    font-weight: 600;
+    width: 85%;
+    margin-top: 40px;
+    margin: 45%;
+    padding: 35px 0;
+}
+
+.column3_content .dororo{
+    align-items: center;
+    width: 90%;
+    height: 100%;
+    margin: 10%;
+    margin-top: 10px;
+}
+
+.All_column{
+    display: flex;
+    justify-content: space-between;
+}
