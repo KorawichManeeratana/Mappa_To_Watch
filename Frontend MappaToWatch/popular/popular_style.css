@@ -4,10 +4,16 @@
     font-family: sans-serif;
 }
 
-.banner{
+@media screen and (max-width: 440) {
+    .banner {
+      margin: 40px;
+    }
+}
+
+body{
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.375), rgba(0, 0, 0, 0.375)),url(https://images.saymedia-content.com/.image/t_share/MTc1MTE0OTQ2MTQ4MTE2Mjky/reapers-reviews-attack-on-titan-s3.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.375), rgba(0, 0, 0, 0.375)),url(5567872.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -61,7 +67,7 @@
     border: 2px solid #fff;
     outline: none;
     border-radius: 6px;
-    cursor:pointer;
+    cursor: pointer;
     font-size: 1.1em;
     color:#fff;
     font-weight: 500;
@@ -74,63 +80,204 @@
     color:#162938;
 }
 
-.column1_content h2 a{
-    text-decoration: none;
-    color: #162328;
-    text-transform: uppercase;
-    font-weight: 600;
-    width: 85%;
-    margin: 50%;
-    padding: 35px 0;
+.wrapper{
+    position: relative;
+    width: 440px;
+    height: 440px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    border-radius: 25px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    transition: .2s;
+    transform: scale(0);
+    overflow: hidden;
+    transition: transform 0.5s ease, height .2s ease;
 }
 
-.column1_content .kakegurui{
+.wrapper.active-popup {
+    transform: scale(1);
+}
+
+.wrapper.active {
+    height: 520px;
+}
+
+.wrapper .login_formbox{
+    width: 100%;
+    padding: 40px;
+}
+
+.wrapper .login_formbox{
+    transition: transform .18s ease;
+    transform: translateX(0);
+}
+
+.wrapper.active .login_formbox{
+    transition: none;
+    transform:translateX(-420px)
+}
+
+.wrapper .regis_formbox{
+    position: absolute;
+    transition: none;
+    transform: translateX(400px);
+}
+
+.wrapper.active .regis_formbox{
+    transition: transform .18s ease;
+    transform: translateX(0);
+}
+
+.wrapper .close-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 45px;
+    height: 45px;
+    background: #162938;
+    color: #fff;
+    justify-content: center;
     align-items: center;
-    width: 150%;
+    border-bottom-left-radius: 20px;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.wrapper .close-icon svg{
+    top: 0;
+    right: 0;
+    width: 25px;
+    height: 25px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 8.5px;
+    margin-top: 8.5px;
+}
+
+.login_formbox h2{
+    font-size: 2em;
+    color: #fff;
+    text-align: center;
+}
+
+.Input-box{
+    position: relative;
+    width: 100%;
+    height: 60px;
+    border-bottom: 2px solid #fff;
+    margin: 30px 0;
+}
+
+.Input-box label{
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+    font-size: 1em;
+    font-weight: 500;
+    color: #fff;
+    pointer-events: none;
+    transition: .5s;
+}
+
+.Input-box input:focus~label,
+.Input-box input:valid~label {
+    top: -5px;
+}
+
+.Input-box input {
+    width: 100%;
     height: 100%;
-    margin: 20%;
-    margin-top: 10px;
-}
-
-.column2_content h2 a{
-    text-decoration: none;
-    color: #162328;
-    text-transform: uppercase;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 1em;
+    color: #fff;
     font-weight: 600;
-    width: 85%;
-    margin: 90%;
-    padding: 35px 0;
+    padding: 0 35px 0 5px;
 }
 
-.column2_content .jujut{
-    align-items: center;
-    width: 200%;
-    height: 100%;
-    margin-left: 40px;
-    margin-top: 10px;
+.Input-box .icon{
+    position: absolute;
+    right: 8px;
+    bottom: 15px;
+    font-size: 1.2em;
+    color: #fff;
+    line-height: 30px;
+    
 }
 
-.column3_content h2 a{
-    align-items: center;
-    text-decoration: none;
-    color: #162328;
-    text-transform: uppercase;
-    font-weight: 600;
-    width: 85%;
-    margin-top: 40px;
-    margin: 45%;
-    padding: 35px 0;
-}
-
-.column3_content .dororo{
-    align-items: center;
-    width: 90%;
-    height: 100%;
-    margin: 10%;
-    margin-top: 10px;
-}
-
-.All_column{
+.remember-forgot{
+    font-size: .9em;
+    color: #fff;
+    font-weight: 500;
+    margin: -15px 0 15px;
     display: flex;
     justify-content: space-between;
+}
+
+.remember-forgot label input {
+    accent-color: #162938;
+    margin-right: 3px;
+}
+
+.remember-forgot a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.remember-forgot a:hover {
+    text-decoration: underline;
+}
+
+.btn {
+    width: 100%;
+    height: 45px;
+    background: #162938;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1em;
+    color: #fff;
+    font-weight: 500;
+}
+
+.reigister{
+    font-size: .9em;
+    color: #fff;
+    text-align: center;
+    font-weight: 500;
+    text-align: center;
+    margin: 25px 0 10px;
+}
+
+.reigister p a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+.reigister p a:hover {
+    text-decoration: underline;
+}
+
+.regis_formbox h2{
+    font-size: 2em;
+    color: #fff;
+    text-align: center;
+}
+
+.content .hot{
+    width: 20%;
+    position: absolute;
+    top: 50%;
+    transform: translateX(200%);
 }
