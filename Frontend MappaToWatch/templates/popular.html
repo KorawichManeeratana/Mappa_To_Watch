@@ -2,22 +2,14 @@
 <html>
 <head>
     <title>Mappa To Watch</title>
-    <link rel="stylesheet" href="popular_style.css">
+    <link rel="stylesheet" href="../static/popular_style.css">
     <meta name="viewport" content="width=device-width, intial-scale=1">
 </head>
 <body>
-    <div class="banner">
-        <div class="naver">
-            <img src="frr.png" class="freedom">
-            <ul>
-                <li><a href="../homepage/main.html">Home</a></li>
-                <li><a href="../popular/popular.html">Popular</a></li>
-                <li><a href="#">About</a></li>
-                <button class="login-button">Login</button>
-            </ul>
-        </div>
-    </div>
-
+    <!-- HEAD หรือ Navigation bar ด้านบนทำอย่างงี้เพื่อประหยัดบรรทัดและความยุ่ง-->
+    {% extends "navbar.html" %}
+    <!-- กำหนด block ข้อความในหน้าเพจด้านล่าง HEADER-->
+    {% block home %}
     <div class="content">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizr4x1gImA6XCnyyV8PDELY6_Ngv0SqhHwlbTK_t1rXKnYVF-qL1Fo217R9kkwvnqYXC6ucATp73Dsbz8SwYEXM119xCHcS-IEywm53USmANf9BsQDjCiPIXjHhG4jqV_6s5k4QzUBuH_I4Lhfg6nWpMRVFbb2rrzxLGY7hIRTsQ9iDJJnH_7CPQE9pw/s1200/hell-paradise-jigokuraku-2.jpg" class="hot">
 
@@ -97,6 +89,7 @@
                 </div>
         </div>
     </div>
-    <script src="../homepage/script.js"></script>
+    <script src="../static/script.js"></script>
+    {% endblock %}
 </body>
 </html>

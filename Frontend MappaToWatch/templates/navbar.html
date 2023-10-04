@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../static/nav.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <!-- Navigation bar / Header ของทุกหน้า -->
+    <div class="banner">
+        <div class="naver">
+            <img src="../static/frr.png" class="freedom">
+            <ul>
+                <li><a href="{{ url_for('home') }}">Home</a></li>
+                <li><a href="{{ url_for('popular') }}">Popular</a></li>
+                <li><a href="#">About</a></li>
+                <button class="login-button">Login</button>
+            </ul>
+        </div>
+    <main>
+        {% block home %}
+        {% endblock %}
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
