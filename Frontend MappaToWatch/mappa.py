@@ -10,5 +10,9 @@ def home():
 def popular():
     return render_template("popular.html")
 
+@app.route("/starto")
+def start():
+    return render_template("get_start.html")
+
 if __name__ == "__main__":
     app.run(debug=True)

@@ -1,27 +1,61 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>Mappa To Watch - home</title>
-    <link rel="stylesheet" href="../static/style.css">
-    <meta name="viewport" content="width=device-width, intial-scale=1">
+    <title>Mappa To Watch - Started</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/get_start_style.css">
 </head>
 <body>
     <!-- HEAD หรือ Navigation bar ด้านบนทำอย่างงี้เพื่อประหยัดบรรทัดและความยุ่ง-->
     {% extends "navbar.html" %}
-    <!-- Middle Page (Content ตรงกลาง website หน้า Homepage) -->
     {% block home %}
-    <div class="content">
-        <h1>Mappa To Watch</h1>
-        <p>This website will help you find your maybe favourite Mappa's anime to watch next.</p>
-        <div>
-            <button id="myButton"type="button"><span></span>Get Started.</button>
-            <script type="text/javascript">
-                document.getElementById("myButton").onclick = function () {
-                    location.href = "{{ url_for('start') }}";
-                };
-            </script>
+    <div>
+        <select class="select" multiple data-mdb-filter="true">
+            <option value="1">One</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+            <option value="4">Four</option>
+            <option value="5">Five</option>
+            <option value="6">Six</option>
+            <option value="7">Seven</option>
+            <option value="8">Eight</option>
+            <option value="9">Nine</option>
+            <option value="10">Ten</option>
+            </select>
+    </div>
+    
+    <div class="container">
+        <div class="result">
+            <img src="https://cdn.myanimelist.net/images/anime/1948/120625.jpg" alt="Profile Picture" class="result">
+            <div class="name"><a>Attack on titan the final</a></div>
+        </div>
+
+        <div class="result">
+            <img src="https://cdn.myanimelist.net/images/anime/1171/109222.jpg" alt="Profile Picture" class="result">
+            <div class="name"><p>Jujutsu Kaisen</p></div>
+        </div>
+
+        <div class="result">
+            <img src="https://cdn.myanimelist.net/images/anime/3/86578.jpg" alt="Profile Picture" class="result">
+            <div class="name">Kakegurui</div>
+        </div>
+
+        <div class="result">
+            <img src="https://cdn.myanimelist.net/images/anime/1171/109222.jpg" alt="Profile Picture" class="result">
+            <div class="name">Jujutsu Kaisen</div>
+        </div>
+
+        <div class="result">
+            <img src="https://cdn.myanimelist.net/images/anime/1171/109222.jpg" alt="Profile Picture" class="result">
+            <div class="name">Jujutsu Kaisen</div>
+        </div>
+
+        <div class="result">
+            <img src="https://cdn.myanimelist.net/images/anime/1171/109222.jpg" alt="Profile Picture" class="result">
+            <div class="name">Jujutsu Kaisen</div>
         </div>
     </div>
-    <!-- รวมหน้า Menu Login -->
+    <!-- Login Box-->
     <div class="wrapper">
         <!-- Close icon in Login -->
         <span class="close-icon">
@@ -36,7 +70,7 @@
                 <div class="Input-box">
                     <span class="icon">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-                             <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
+                                <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
                         </svg>
                     </span>
         <!-- รับ Input Email -->
@@ -57,13 +91,13 @@
                     <label><input type="checkbox">Remember me</label>
                     <a href="#">Forgot Password?</a>
                 </div>
-         <!-- Submit Button as Login Button -->
+            <!-- Submit Button as Login Button -->
                 <button type="submit" class="btn">Login</button>
                 <div class="reigister">
                     <p>Don't have an account?<a class="regis-link" href="#">Register</a></p>
                 </div>
         </div>
-    <!-- Register Box -->
+        <!-- Register Box -->
         <div class="regis_formbox">
             <h2>Registration</h2>
             <form action="#">
@@ -106,7 +140,6 @@
                     <p>Already have an account?<a class="login-link" href="#">Login</a></p>
                 </div>
         </div>
-    </div>
     </div>
     <script src="../static/script.js"></script>
     {% endblock %}
