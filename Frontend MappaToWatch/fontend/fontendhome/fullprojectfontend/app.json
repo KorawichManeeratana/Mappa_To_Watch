@@ -1,0 +1,74 @@
+[{
+    "name": "Jujutsu Kaisen",
+    "sposter": "pic/Volumes & Chapters.jpg",
+    "bposter": "pic/jujutshibnuya.jpg",
+    "genre": "Action, Award Winning, Fantasy",
+    "type": "action",
+    "home":"h",
+    "url" : "",
+    "trailer": "pic/jujutsu-kaisen-4k-yuji-itadori-np6la138wysgt3vh.jpg"
+}, {
+    "name": "Attack on Titan",
+    "sposter": "pic/Attack-on-Titan.jpg",
+    "bposter": "pic/Attack-On-Titan-Wallpapers.jpg",
+    "genre": "Action",
+    "type": "action",
+    "home":"h",
+    "url" : "",
+    "trailer": "pic/att.jpg"
+}, {
+    "name": "Chainsaw man",
+    "sposter": "pic/Sanook_Chainsaw-Man_Key-Art.jpg",
+    "bposter": "pic/denji-chainsaw-man-01-700x400-1.jpg",
+    "genre": "Action, Fantasy",
+    "type": "action",
+    "home":"h",
+    "url" : "",
+    "trailer": "pic/att.jpg"
+}, {
+    "name": "Dororo",
+    "sposter": "pic/1248598-img.uj7u9a.156lh.jpg",
+    "bposter": "pic/82483224251183e88740242144f59984.jpg",
+    "genre": "Action, Adventure, Supernatural",
+    "type": "adventure" ,
+    "home":"h",
+    "url" : "",
+    "trailer": "pic/att.jpg"
+}, {
+    "name": "The God of High School",
+    "sposter": "pic/god of.jpg",
+    "bposter": "pic/The-God-of-High-School.jpg",
+    "genre": "Action, Fantasy",
+    "type": "action",
+    "home":"h",
+    "url" : "",
+    "trailer": "pic/6324-Header_GodofHighSchool_2000x800.jpg"
+}, {
+    "name": "Zankyou no Terror",
+    "sposter": "pic/Zankyou no Terror.jpg",
+    "bposter": "pic/Zankyou no Terror1.jpg",
+    "genre": "Mystery, Suspense",
+    "type": "",
+    "home":"h",
+    "url" : "",
+    "trailer": "pic/2059984.jpg"
+}, {
+    "name": "Jigokuraku",
+    "sposter": "pic/131925.jpg",
+    "bposter": "pic/jgr_01_129_1_.jpg",
+    "genre": "Action, Adventure, Fantasy",
+    "type": "adventure",
+    "home":"h",
+    "url" : "",
+    "trailer": "pic/111.jpg"
+}, {
+    "name": "Hajime no Ippo: Rising",
+    "sposter": "pic/bx19647-cIy7ShTL6e9h.jpg",
+    "bposter": "pic/Hajime-No-Ippo-Episode-10-01-600x337.jpg",
+    "type": "sport",
+    "home":"h",
+    "genre": "Sports",
+    "url" : "",
+    "trailer": "pic/d7e1ad0fb0b2cfe61cb7bec380e71a73.png"
+}
+]
