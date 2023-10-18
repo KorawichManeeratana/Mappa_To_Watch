@@ -24,17 +24,32 @@ html {
     grid-template-columns: repeat(6, 1fr);
     gap: 1px;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .result {
-text-align: center;
-margin: 5px;
+    text-align: center;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.result img {
+    max-width: 100%;
 }
 
 .name {
     font-size: 24px;
     margin-top: 5px;
     color: #fff;
+    cursor: pointer;
 }
 
 body{
@@ -43,8 +58,98 @@ body{
     background-image: linear-gradient(rgba(0, 0, 0, 0.375), rgba(0, 0, 0, 0.375)),url(sky.jpg);
     background-size: cover;
     background-position: center;
+    flex-direction: column;
+    display: flex;
 }
 
+.infogather{
+    width: 370px;
+    margin: 130px auto 0;
+}
+.sel-btn, .options li{
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+}
+.sel-btn {
+    background: #fff;
+    height: 65px;
+    border-radius: 7px;
+    padding: 0 20px;
+    font-size: 22px;
+    justify-content: space-between;
+}
+
+.sel-btn i{
+    font-size: 33px;
+    transition: transform 0.3s linear;
+}
+
+.infogather.active .sel-btn i{
+    transform: rotate(-180deg);
+}
+
+.infooption {
+    display: none;
+    background: #fff;
+    margin-top: 15px;
+    padding: 20px;
+    border-radius: 7px;
+}
+
+.infogather.active .infooption{
+    display: block;
+}
+
+.infooption .search {
+    position: relative;
+}
+
+.search i {
+    left: 15px;
+    line-height: 53px;
+    position: absolute;
+    color: #999;
+    font-size: 20px;
+}
+.search input{
+    height: 53px;
+    width: 82%;
+    font-size: 17px;
+    padding: 0 15px 0 43px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid #b3b3b3
+}
+
+.infooption .options{
+    margin-top: 10px;
+    max-height: 250px;
+    overflow-y: auto;
+}
+
+.options::-webkit-scrollbar{
+    width: 7px;
+}
+
+.options::-webkit-scrollbar-track{
+    background: #f1f1f1;
+    border-radius: 25px;
+}
+.options::-webkit-scrollbar-thumb{
+    background: #ccc;
+    border-radius: 25px;
+}
+.options li{
+    height: 50px;
+    border-radius: 5px;
+    padding: 0 13px;
+    font-size: 21px;
+}
+
+.options li:hover{
+    background: #f2f2f2;
+}
 .wrapper{
     position: relative;
     width: 440px;
