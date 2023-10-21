@@ -567,6 +567,8 @@ header section:hover .bi-chevron-left {
     transform: scale(0);
     overflow: hidden;
     transition: transform 0.5s ease, height .2s ease;
+    z-index: 999;
+    bottom: 300px;
 }
 
 .wrapper.active-popup {
@@ -742,4 +744,8 @@ header section:hover .bi-chevron-left {
     font-size: 2em;
     color: #fff;
     text-align: center;
+}
+
+.cards {
+    z-index: 998;
 }
