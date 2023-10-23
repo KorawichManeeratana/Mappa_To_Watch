@@ -8,10 +8,19 @@
     "url" : "",
     "trailer": "pic/jujutsu-kaisen-4k-yuji-itadori-np6la138wysgt3vh.jpg"
 }, {
+    "name": "Jujutsu Kaisen 2nd Season",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1190/137716.jpg",
+    "bposter": "pic/jjkss2.jpg",
+    "genre": "Action, Fantasy",
+    "type": "action",
+    "home":"h",
+    "url" : "",
+    "trailer": "pic/jujutsu-kaisen-4k-yuji-itadori-np6la138wysgt3vh.jpg"
+}, {
     "name": "Attack on Titan",
     "sposter": "pic/Attack-on-Titan.jpg",
     "bposter": "pic/Attack-On-Titan-Wallpapers.jpg",
-    "genre": "Action",
+    "genre": "Action, Drama, Suspense",
     "type": "action",
     "home":"h",
     "url" : "",
@@ -70,5 +79,32 @@
     "genre": "Sports",
     "url" : "",
     "trailer": "pic/d7e1ad0fb0b2cfe61cb7bec380e71a73.png"
+}, {
+    "name": "Takt Op. Destiny",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1449/117797.jpg",
+    "bposter": "pic/takt.jpg",
+    "type": "Action, Fantasy, Sci-Fi",
+    "home":"h",
+    "genre": "Action, Fantasy, Sci-Fi",
+    "url" : "",
+    "trailer": "pic/takt1.png"
+}, {
+    "name": "Inuyashiki",
+    "sposter": "https://cdn.myanimelist.net/images/anime/7/88471.jpg",
+    "bposter": "pic/inu.jpg",
+    "type": "Action, Drama, Sci-Fi",
+    "home":"h",
+    "genre": "Action, Drama, Sci-Fi",
+    "url" : "",
+    "trailer": "pic/inu2.png"
+}, {
+    "name": "Zombieland Saga",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1084/128208.jpg",
+    "bposter": "pic/zombie.jpg",
+    "type": "Award Winning, Comedy, Supernatural",
+    "home":"h",
+    "genre": "Award Winning, Comedy, Supernatural",
+    "url" : "",
+    "trailer": "pic/land.png"
 }
 ]
