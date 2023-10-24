@@ -1,0 +1,110 @@
+[{
+    "name": "Jujutsu Kaisen",
+    "sposter": "../static/pic/Volumes & Chapters.jpg",
+    "bposter": "../static/pic/jujutshibnuya.jpg",
+    "genre": "Action, Award Winning, Fantasy",
+    "type": "action",
+    "home":"h",
+    "url" : "",
+    "trailer": "../static/pic/jujutsu-kaisen-4k-yuji-itadori-np6la138wysgt3vh.jpg"
+}, {
+    "name": "Jujutsu Kaisen 2nd Season",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1190/137716.jpg",
+    "bposter": "../static/pic/jjkss2.jpg",
+    "genre": "Action, Fantasy",
+    "type": "action",
+    "home":"h",
+    "url" : "",
+    "trailer": "../static/pic/jujutsu-kaisen-4k-yuji-itadori-np6la138wysgt3vh.jpg"
+}, {
+    "name": "Attack on Titan",
+    "sposter": "../static/pic/Attack-on-Titan.jpg",
+    "bposter": "../static/pic/Attack-On-Titan-Wallpapers.jpg",
+    "genre": "Action, Drama, Suspense",
+    "type": "action",
+    "home":"h",
+    "url" : "",
+    "trailer": "../static/pic/att.jpg"
+}, {
+    "name": "Chainsaw man",
+    "sposter": "../static/pic/Sanook_Chainsaw-Man_Key-Art.jpg",
+    "bposter": "../static/pic/denji-chainsaw-man-01-700x400-1.jpg",
+    "genre": "Action, Fantasy",
+    "type": "action",
+    "home":"h",
+    "url" : "",
+    "trailer": "../static/pic/att.jpg"
+}, {
+    "name": "Dororo",
+    "sposter": "../static/pic/1248598-img.uj7u9a.156lh.jpg",
+    "bposter": "../static/pic/82483224251183e88740242144f59984.jpg",
+    "genre": "Action, Adventure, Supernatural",
+    "type": "adventure" ,
+    "home":"h",
+    "url" : "",
+    "trailer": "../static/pic/att.jpg"
+}, {
+    "name": "The God of High School",
+    "sposter": "../static/pic/god of.jpg",
+    "bposter": "../static/pic/The-God-of-High-School.jpg",
+    "genre": "Action, Fantasy",
+    "type": "action",
+    "home":"h",
+    "url" : "",
+    "trailer": "../static/pic/6324-Header_GodofHighSchool_2000x800.jpg"
+}, {
+    "name": "Zankyou no Terror",
+    "sposter": "../static/pic/Zankyou no Terror.jpg",
+    "bposter": "../static/pic/Zankyou no Terror1.jpg",
+    "genre": "Mystery, Suspense",
+    "type": "",
+    "home":"h",
+    "url" : "",
+    "trailer": "../static/pic/2059984.jpg"
+}, {
+    "name": "Jigokuraku",
+    "sposter": "../static/pic/131925.jpg",
+    "bposter": "../static/pic/jgr_01_129_1_.jpg",
+    "genre": "Action, Adventure, Fantasy",
+    "type": "adventure",
+    "home":"h",
+    "url" : "",
+    "trailer": "../static/pic/111.jpg"
+}, {
+    "name": "Hajime no Ippo: Rising",
+    "sposter": "../static/pic/bx19647-cIy7ShTL6e9h.jpg",
+    "bposter": "../static/pic/Hajime-No-Ippo-Episode-10-01-600x337.jpg",
+    "type": "sport",
+    "home":"h",
+    "genre": "Sports",
+    "url" : "",
+    "trailer": "../static/pic/d7e1ad0fb0b2cfe61cb7bec380e71a73.png"
+}, {
+    "name": "Takt Op. Destiny",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1449/117797.jpg",
+    "bposter": "../static/pic/takt.jpg",
+    "type": "Action, Fantasy, Sci-Fi",
+    "home":"h",
+    "genre": "Action, Fantasy, Sci-Fi",
+    "url" : "",
+    "trailer": "../static/pic/takt1.png"
+}, {
+    "name": "Inuyashiki",
+    "sposter": "https://cdn.myanimelist.net/images/anime/7/88471.jpg",
+    "bposter": "../static/pic/inu.jpg",
+    "type": "Action, Drama, Sci-Fi",
+    "home":"h",
+    "genre": "Action, Drama, Sci-Fi",
+    "url" : "",
+    "trailer": "../static/pic/inu2.png"
+}, {
+    "name": "Zombieland Saga",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1084/128208.jpg",
+    "bposter": "../static/pic/zombie.jpg",
+    "type": "Award Winning, Comedy, Supernatural",
+    "home":"h",
+    "genre": "Award Winning, Comedy, Supernatural",
+    "url" : "",
+    "trailer": "../static/pic/land.png"
+}
+]
