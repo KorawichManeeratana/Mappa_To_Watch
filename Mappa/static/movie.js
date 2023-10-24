@@ -80,7 +80,6 @@ fetch(json_url).then(Response => Response.json())
         })
 
         let action = document.getElementById('action');
-        let adventure = document.getElementById('adventure');
         
         action.addEventListener('click', ()=> {
             cards.innerHTML = '';
@@ -108,38 +107,5 @@ fetch(json_url).then(Response => Response.json())
                 `
                 cards.appendChild(card);
             });
-
         })
-
-        adventure.addEventListener('click', ()=> {
-            cards.innerHTML = '';
-
-            let adventure_array = data.filter(ele => {
-                return ele.type === "adventure";
-            });
-
-            adventure_array.forEach((ele, i) => {
-                let { name, sposter, bposter, genre, url } = ele;
-                let card = document.createElement('a');
-                card.classList.add('card');
-                card.href = url;
-                card.innerHTML = `
-                <img src="${sposter}" alt="${name}" class="poster">
-                <div class="rest_card">
-                    <img src="${bposter}" alt="">
-                    <div class="cont">
-                        <h4>${name}</h4>
-                        <div class="sub">
-                            <p>${genre}</p>
-                        </div>
-                    </div>
-                </div>
-                `
-                cards.appendChild(card);
-            });
-
-        })
-
-        
-
-    });
+        });
