@@ -6,7 +6,7 @@ let genres = ["Action", "Adventure", "Shounen", "Shoujo", "Sci-Fi", "Horror", "F
 
 function addGenres() {
     genres.forEach(genre => {
-        let li = '<li onclick=updateName(this)>${genre}</li>';
+        let li = '<li onclick=updateName(this)> `${genre}` </li>';
         options.insertAdjacentHTML("beforeend", li);
     });
 }

@@ -6,7 +6,7 @@
     "type": "action",
     "home":"h",
     "url" : "",
-    "trailer": "pic/jujutsu-kaisen-4k-yuji-itadori-np6la138wysgt3vh.jpg"
+    "trailer": "pic/jjk op1.mp4"
 }, {
     "name": "Jujutsu Kaisen 2nd Season",
     "sposter": "https://cdn.myanimelist.net/images/anime/1190/137716.jpg",
@@ -15,7 +15,7 @@
     "type": "action",
     "home":"h",
     "url" : "",
-    "trailer": "pic/jujutsu-kaisen-4k-yuji-itadori-np6la138wysgt3vh.jpg"
+    "trailer": "pic/special.mp4"
 }, {
     "name": "Attack on Titan",
     "sposter": "pic/Attack-on-Titan.jpg",
@@ -24,7 +24,7 @@
     "type": "action",
     "home":"h",
     "url" : "",
-    "trailer": "pic/att.jpg"
+    "trailer": "pic/rumbling.mp4"
 }, {
     "name": "Chainsaw man",
     "sposter": "pic/Sanook_Chainsaw-Man_Key-Art.jpg",
@@ -33,7 +33,7 @@
     "type": "action",
     "home":"h",
     "url" : "",
-    "trailer": "pic/att.jpg"
+    "trailer": "pic/kick back.mp4"
 }, {
     "name": "Dororo",
     "sposter": "pic/1248598-img.uj7u9a.156lh.jpg",
@@ -100,7 +100,7 @@
 }, {
     "name": "Zombieland Saga",
     "sposter": "https://cdn.myanimelist.net/images/anime/1084/128208.jpg",
-    "bposter": "pic/zombie.jpg",
+    "bposter": "pic/zombie.png",
     "type": "Award Winning, Comedy, Supernatural",
     "home":"h",
     "genre": "Award Winning, Comedy, Supernatural",
