@@ -572,7 +572,7 @@ header section:hover .bi-chevron-left {
 }
 
 .wrapper{
-    position: relative;
+    position: fixed;
     width: 440px;
     height: 440px;
     background: transparent;
@@ -586,14 +586,17 @@ header section:hover .bi-chevron-left {
     margin: 0 auto;
     transition: .2s;
     transform: scale(0);
+    bottom: 30%;
+    left: 40%;
     overflow: hidden;
     transition: transform 0.5s ease, height .2s ease;
     z-index: 999;
-    bottom: 300px;
 }
 
 .wrapper.active-popup {
     transform: scale(1);
+    bottom: 30%;
+    left: 40%;
 }
 
 .wrapper.active {
@@ -624,6 +627,8 @@ header section:hover .bi-chevron-left {
 .wrapper.active .regis_formbox{
     transition: transform .18s ease;
     transform: translateX(0);
+    bottom: 1px;
+    left: 100px;
 }
 
 .wrapper .close-icon {
@@ -783,6 +788,7 @@ header section:hover .bi-chevron-left {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    z-index: 0;
 }
 
 #service-section h2 {

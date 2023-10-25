@@ -68,7 +68,8 @@
                     </div>
                 </div>
             </div>
-        </div> 
+        </div>
+
         <div class="wrapper">
             <!-- Close icon in Login -->
             <span class="close-icon">
@@ -77,6 +78,7 @@
                 </svg>
             </span>
             <!-- Login Box -->
+        <form method="LOGIN">
             <div class="login_formbox">
                 <h2>Login</h2>
                 <form action="#">
@@ -87,8 +89,12 @@
                             </svg>
                         </span>
             <!-- รับ Input Email -->
-                        <input type="email" required>
-                        <label>Email</label>
+                        <input type="email" required
+                        id="email"
+                        name="email"
+                        class="form-control"
+                        >
+                        <label for="email">Email</label>
                     </div>
                     <div class="Input-box">
                         <span class="icon">
@@ -97,8 +103,12 @@
                             </svg>
                         </span>
             <!-- Input Password -->
-                        <input type="password" required>
-                        <label>Password</label>
+                        <input type="password" required
+                        id="password"
+                        class="password"
+                        name="password"
+                        >
+                        <label for="password">Password</label>
                     </div>
                     <div class="remember-forgot">
                         <label><input type="checkbox">Remember me</label>
@@ -106,11 +116,14 @@
                     </div>
              <!-- Submit Button as Login Button -->
                     <button type="submit" class="btn">Login</button>
+
                     <div class="reigister">
                         <p>Don't have an account?<a class="regis-link" href="#">Register</a></p>
                     </div>
             </div>
         <!-- Register Box -->
+    </form>
+    <form method="REGIS">
             <div class="regis_formbox">
                 <h2>Registration</h2>
                 <form action="#">
@@ -121,8 +134,11 @@
                                 <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3Zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"/>
                             </svg>
                         </span>
-                        <input type="text" required>
-                        <label>Username</label>
+                        <input type="text" required
+                        id="username"
+                        name="username"
+                        class="form-control">
+                        <label for="username">Username</label>
                     </div>
             <!-- Regis Email Box-->
                     <div class="Input-box">
@@ -131,8 +147,12 @@
                                 <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
                             </svg>
                         </span>
-                        <input class="email_input" type="email" required>
-                        <label>Email</label>
+                        <input class="form-control"
+                         type="email" required
+                         id="email"
+                         name="email"
+                        >
+                        <label for="email">Email</label>
                     </div>
                     <div class="Input-box">
                         <span class="icon">
@@ -141,22 +161,25 @@
                             </svg>
                         </span>
             <!-- Regis Password -->
-                        <input class="regis_input" type="password" required>
-                        <label>Password</label>
+                        <input class="form-control"
+                         type="password" required
+                         id="password"
+                         name="password"
+                         >
+                        <label for="password">Password</label>
                     </div>
                     <div class="remember-forgot">
                         <label><input type="checkbox">I agree to the terms & conditions</label>
                     </div>
             <!-- Regis button -->
-                    <button type="submit" class="btn">Register</button>
+                    <button type="submit" class="btn btn-primary">Register</button>
+    </form>
                     <div class="reigister">
                         <p>Already have an account?<a class="login-link" href="#">Login</a></p>
                     </div>
             </div>
         </div>
-
     </header>
-    <script src="movie.js"></script>
-    <script src="login.js"></script>
+    <script src="../static/login.js"></script>
 </body>
 </html>
