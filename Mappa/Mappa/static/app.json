@@ -5,7 +5,7 @@
     "genre": "Action, Award Winning, Fantasy",
     "type": "action",
     "home":"h",
-    "url" : "",
+    "url" : "cinema.html",
     "trailer": "../static/pic/jujutsu-kaisen-4k-yuji-itadori-np6la138wysgt3vh.jpg"
 }, {
     "name": "Jujutsu Kaisen 2nd Season",
@@ -14,7 +14,7 @@
     "genre": "Action, Fantasy",
     "type": "action",
     "home":"h",
-    "url" : "",
+    "url" : "cinema.html",
     "trailer": "../static/pic/jujutsu-kaisen-4k-yuji-itadori-np6la138wysgt3vh.jpg"
 }, {
     "name": "Attack on Titan",
@@ -23,7 +23,7 @@
     "genre": "Action, Drama, Suspense",
     "type": "action",
     "home":"h",
-    "url" : "",
+    "url" : "cinema.html",
     "trailer": "../static/pic/att.jpg"
 }, {
     "name": "Chainsaw man",
@@ -32,7 +32,7 @@
     "genre": "Action, Fantasy",
     "type": "action",
     "home":"h",
-    "url" : "",
+    "url" : "cinema.html",
     "trailer": "../static/pic/att.jpg"
 }, {
     "name": "Dororo",
@@ -41,7 +41,7 @@
     "genre": "Action, Adventure, Supernatural",
     "type": "adventure" ,
     "home":"h",
-    "url" : "",
+    "url" : "cinema.html",
     "trailer": "../static/pic/att.jpg"
 }, {
     "name": "The God of High School",
@@ -50,7 +50,7 @@
     "genre": "Action, Fantasy",
     "type": "action",
     "home":"h",
-    "url" : "",
+    "url" : "cinema.html",
     "trailer": "../static/pic/6324-Header_GodofHighSchool_2000x800.jpg"
 }, {
     "name": "Zankyou no Terror",
@@ -59,7 +59,7 @@
     "genre": "Mystery, Suspense",
     "type": "",
     "home":"h",
-    "url" : "",
+    "url" : "cinema.html",
     "trailer": "../static/pic/2059984.jpg"
 }, {
     "name": "Jigokuraku",
@@ -68,7 +68,7 @@
     "genre": "Action, Adventure, Fantasy",
     "type": "adventure",
     "home":"h",
-    "url" : "",
+    "url" : "cinema.html",
     "trailer": "../static/pic/111.jpg"
 }, {
     "name": "Hajime no Ippo: Rising",
@@ -77,7 +77,7 @@
     "type": "sport",
     "home":"h",
     "genre": "Sports",
-    "url" : "",
+    "url" : "cinema.html",
     "trailer": "../static/pic/d7e1ad0fb0b2cfe61cb7bec380e71a73.png"
 }, {
     "name": "Takt Op. Destiny",
@@ -86,7 +86,7 @@
     "type": "Action, Fantasy, Sci-Fi",
     "home":"h",
     "genre": "Action, Fantasy, Sci-Fi",
-    "url" : "",
+    "url" : "cinema.html",
     "trailer": "../static/pic/takt1.png"
 }, {
     "name": "Inuyashiki",
@@ -95,16 +95,16 @@
     "type": "Action, Drama, Sci-Fi",
     "home":"h",
     "genre": "Action, Drama, Sci-Fi",
-    "url" : "",
+    "url" : "cinema.html",
     "trailer": "../static/pic/inu2.png"
 }, {
     "name": "Zombieland Saga",
     "sposter": "https://cdn.myanimelist.net/images/anime/1084/128208.jpg",
-    "bposter": "../static/pic/zombie.jpg",
+    "bposter": "../static/pic/zombie.png",
     "type": "Award Winning, Comedy, Supernatural",
     "home":"h",
     "genre": "Award Winning, Comedy, Supernatural",
-    "url" : "",
+    "url" : "cinema.html",
     "trailer": "../static/pic/land.png"
 }
 ]
