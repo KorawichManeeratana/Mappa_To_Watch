@@ -17,6 +17,11 @@
                 <button class="login-button">Login</button>
             </ul>
         </div>
+            {% with messages = get_flashed_messages(with_catagories=True) %}
+        {% endwith %}
+
+
+
     <main>
         {% block home %}
         {% endblock %}
