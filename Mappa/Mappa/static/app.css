@@ -616,14 +616,17 @@ header section:hover .bi-chevron-left {
 }
 
 .wrapper .regis_formbox{
-    position: absolute;
+    position: fixed;
     transition: none;
     transform: translateX(400px);
 }
 
 .wrapper.active .regis_formbox{
+    position: fixed;
     transition: transform .18s ease;
     transform: translateX(0);
+    right: 100px;
+    bottom: 0;
 }
 
 .wrapper .close-icon {
