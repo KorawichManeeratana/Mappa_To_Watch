@@ -1,122 +1,344 @@
-[
-    {
-        "name": "Jujutsu Kaisen",
-        "sposter": "/static/pic/Volumes & Chapters.jpg",
-        "bposter": "/static/pic/jujutshibnuya.jpg",
-        "genre": "Action, Award Winning, Fantasy",
-        "type": "action",
-        "intro": "เล่าเรื่องราวของ อิตาโดริ ยูจิ เด็กหนุ่มธรรมดาที่กลืนวัตถุต้องสาปที่เรียกว่า นิ้วของสุคุนะเข้าไปเพราะต้องการปกป้องผู้คนแต่มันกลับเปลี่ยนชีวิตของเขาไปในพริบตาเพราะเขากลายเป็นสิ่งที่เรียกว่าภาชนะของสุคุนะ ซึ่งเป็นคำสาปที่อันตรายที่สุดหรือราชาแห่งคำสาป",
-        "url": "cinema.html?id=1",
-        "trailer": "L-VaE-J40oQ"
-    },
-    {
-        "name": "Jujutsu Kaisen 2nd Season",
-        "sposter": "https://cdn.myanimelist.net/images/anime/1190/137716.jpg",
-        "bposter": "/static/pic/jjkss2.jpg",
-        "genre": "Action, Fantasy",
-        "type": "action",
-        "intro": "เล่าเรื่องราวของ อิตาโดริ ยูจิ เด็กหนุ่มธรรมดาที่กลืนวัตถุต้องสาปที่เรียกว่า นิ้วของสุคุนะเข้าไปเพราะต้องการปกป้องผู้คนแต่มันกลับเปลี่ยนชีวิตของเขาไปในพริบตาเพราะเขากลายเป็นสิ่งที่เรียกว่าภาชนะของสุคุนะ ซึ่งเป็นคำสาปที่อันตรายที่สุดหรือราชาแห่งคำสาป",
-        "url": "cinema.html?id=1",
-        "trailer": "5yb2N3pnztU"
-    },
-    {
-        "name": "Attack on Titan",
-        "sposter": "/static/pic/Attack-on-Titan.jpg",
-        "bposter": "/static/pic/Attack-On-Titan-Wallpapers.jpg",
-        "genre": "Action, Drama, Suspense",
-        "type": "action",
-        "intro": "h",
-        "url": "cinema.html",
-        "trailer": "/static/pic/att.jpg"
-    },
-    {
-        "name": "Chainsaw man",
-        "sposter": "/static/pic/Sanook_Chainsaw-Man_Key-Art.jpg",
-        "bposter": "/static/pic/denji-chainsaw-man-01-700x400-1.jpg",
-        "genre": "Action, Fantasy",
-        "type": "action",
-        "intro": "h",
-        "url": "cinema.html",
-        "trailer": "/static/pic/att.jpg"
-    },
-    {
-        "name": "Dororo",
-        "sposter": "/static/pic/1248598-img.uj7u9a.156lh.jpg",
-        "bposter": "/static/pic/82483224251183e88740242144f59984.jpg",
-        "genre": "Action, Adventure, Supernatural",
-        "type": "adventure",
-        "intro": "h",
-        "url": "cinema.html",
-        "trailer": "/static/pic/att.jpg"
-    },
-    {
-        "name": "The God of High School",
-        "sposter": "/static/pic/god of.jpg",
-        "bposter": "/static/pic/The-God-of-High-School.jpg",
-        "genre": "Action, Fantasy",
-        "type": "action",
-        "intro": "h",
-        "url": "cinema.html",
-        "trailer": "/static/pic/6324-Header_GodofHighSchool_2000x800.jpg"
-    },
-    {
-        "name": "Zankyou no Terror",
-        "sposter": "/static/pic/Zankyou no Terror.jpg",
-        "bposter": "/static/pic/Zankyou no Terror1.jpg",
-        "genre": "Mystery, Suspense",
-        "type": "",
-        "intro": "h",
-        "url": "cinema.html",
-        "trailer": "/static/pic/2059984.jpg"
-    },
-    {
-        "name": "Jigokuraku",
-        "sposter": "/static/pic/131925.jpg",
-        "bposter": "/static/pic/jgr_01_129_1_.jpg",
-        "genre": "Action, Adventure, Fantasy",
-        "type": "adventure",
-        "intro": "h",
-        "url": "cinema.html",
-        "trailer": "/static/pic/111.jpg"
-    },
-    {
-        "name": "Hajime no Ippo: Rising",
-        "sposter": "/static/pic/bx19647-cIy7ShTL6e9h.jpg",
-        "bposter": "/static/pic/Hajime-No-Ippo-Episode-10-01-600x337.jpg",
-        "type": "sport",
-        "intro": "h",
-        "genre": "Sports",
-        "url": "cinema.html",
-        "trailer": "/static/pic/d7e1ad0fb0b2cfe61cb7bec380e71a73.png"
-    },
-    {
-        "name": "Takt Op. Destiny",
-        "sposter": "https://cdn.myanimelist.net/images/anime/1449/117797.jpg",
-        "bposter": "/static/pic/takt.jpg",
-        "type": "Action, Fantasy, Sci-Fi",
-        "intro": "h",
-        "genre": "Action, Fantasy, Sci-Fi",
-        "url": "cinema.html",
-        "trailer": "/static/pic/takt1.png"
-    },
-    {
-        "name": "Inuyashiki",
-        "sposter": "https://cdn.myanimelist.net/images/anime/7/88471.jpg",
-        "bposter": "/static/pic/inu.jpg",
-        "type": "Action, Drama, Sci-Fi",
-        "intro": "h",
-        "genre": "Action, Drama, Sci-Fi",
-        "url": "cinema.html",
-        "trailer": "/static/pic/inu2.png"
-    },
-    {
-        "name": "Zombieland Saga",
-        "sposter": "https://cdn.myanimelist.net/images/anime/1084/128208.jpg",
-        "bposter": "/static/pic/zombie.png",
-        "type": "Award Winning, Comedy, Supernatural",
-        "intro": "h",
-        "genre": "Award Winning, Comedy, Supernatural",
-        "url": "cinema.html",
-        "trailer": "/static/pic/land.png"
-    }
+[{
+    "name": "Jujutsu Kaisen",
+    "sposter": "../static/pic/Volumes & Chapters.jpg",
+    "bposter": "../static/pic/jujutshibnuya.jpg",
+    "genre": "Action, Award Winning, Fantasy",
+    "type": "action",
+    "home":"h",
+    "url" : "cinema.html",
+    "trailer": "4A_X-Dvl0ws&t=1s"
+}, {
+    "name": "Jujutsu Kaisen 0",
+    "sposter": "https://upload.wikimedia.org/wikipedia/en/7/77/Gekij%C5%8D-ban_Jujutsu_Kaisen_0.png",
+    "bposter": "https://www.otakutale.com/wp-content/uploads/2021/06/Jujutsu-Kaisen-0-Visual-Revealed.jpg",
+    "genre": "Action, Fantasy",
+    "type": "action",
+    "home":"h",
+    "url" : "cinema.html",
+    "trailer": "e8nij7jRB6M"
+},{
+    "name": "Jujutsu Kaisen 2nd Season",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1190/137716.jpg",
+    "bposter": "../static/pic/jjkss2.jpg",
+    "genre": "Action, Fantasy",
+    "type": "action",
+    "home":"h",
+    "url" : "cinema.html",
+    "trailer": "PKHQuQF1S8k"
+}, {
+    "name": "Attack on Titan",
+    "sposter": "../static/pic/Attack-on-Titan.jpg",
+    "bposter": "../static/pic/Attack-On-Titan-Wallpapers.jpg",
+    "genre": "Action, Drama, Suspense",
+    "type": "action",
+    "home":"h",
+    "url" : "cinema.html",
+    "trailer": "LHtdKWJdif4"
+}, {
+    "name": "Chainsaw man",
+    "sposter": "../static/pic/Sanook_Chainsaw-Man_Key-Art.jpg",
+    "bposter": "../static/pic/denji-chainsaw-man-01-700x400-1.jpg",
+    "genre": "Action, Fantasy",
+    "type": "action",
+    "home":"h",
+    "url" : "cinema.html",
+    "trailer": "q15CRdE5Bv0"
+}, {
+    "name": "Dororo",
+    "sposter": "../static/pic/1248598-img.uj7u9a.156lh.jpg",
+    "bposter": "../static/pic/82483224251183e88740242144f59984.jpg",
+    "genre": "Action, Adventure, Supernatural",
+    "type": "adventure" ,
+    "home":"h",
+    "url" : "cinema.html",
+    "trailer": "v3ApcTz1lwE"
+}, {
+    "name": "The God of High School",
+    "sposter": "../static/pic/god of.jpg",
+    "bposter": "../static/pic/The-God-of-High-School.jpg",
+    "genre": "Action, Fantasy",
+    "type": "action",
+    "home":"h",
+    "url" : "cinema.html",
+    "trailer": "oqjwUfprNAk"
+}, {
+    "name": "Zankyou no Terror",
+    "sposter": "../static/pic/Zankyou no Terror.jpg",
+    "bposter": "../static/pic/Zankyou no Terror1.jpg",
+    "genre": "Mystery, Suspense",
+    "type": "Psychological",
+    "home":"h",
+    "url" : "cinema.html",
+    "trailer": "nLVy50LnLMM"
+}, {
+    "name": "Jigokuraku",
+    "sposter": "../static/pic/131925.jpg",
+    "bposter": "../static/pic/jgr_01_129_1_.jpg",
+    "genre": "Action, Adventure, Fantasy",
+    "type": "adventure",
+    "home":"h",
+    "url" : "cinema.html",
+    "trailer": "1JLeeulO8AU"
+}, {
+    "name": "Hajime no Ippo: Rising",
+    "sposter": "../static/pic/bx19647-cIy7ShTL6e9h.jpg",
+    "bposter": "../static/pic/Hajime-No-Ippo-Episode-10-01-600x337.jpg",
+    "type": "sport",
+    "home":"h",
+    "genre": "Sports",
+    "url" : "cinema.html",
+    "trailer": "../static/pic/d7e1ad0fb0b2cfe61cb7bec380e71a73.png"
+}, {
+    "name": "Takt Op. Destiny",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1449/117797.jpg",
+    "bposter": "../static/pic/takt.jpg",
+    "type": "Action, Fantasy, Sci-Fi",
+    "home":"h",
+    "genre": "Action, Fantasy, Sci-Fi",
+    "url" : "cinema.html",
+    "trailer": "Mb0k1HLm3Ls"
+}, {
+    "name": "Inuyashiki",
+    "sposter": "https://cdn.myanimelist.net/images/anime/7/88471.jpg",
+    "bposter": "../static/pic/inu.jpg",
+    "type": "Action, Drama, Sci-Fi",
+    "home":"h",
+    "genre": "Action, Drama, Sci-Fi",
+    "url" : "cinema.html",
+    "trailer": "BEQe5xvsv8w"
+}, {
+    "name": "Zombieland Saga",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1084/128208.jpg",
+    "bposter": "../static/pic/zombie.png",
+    "type": "Award Winning, Comedy, Supernatural",
+    "home":"h",
+    "genre": "Award Winning, Comedy, Supernatural",
+    "url" : "cinema.html",
+    "trailer": "O3VO4zinUOI"
+},{
+    "name": "Dorohedoro",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1740/104786.jpg",
+    "bposter": "https://www.bloggang.com/data/i/iamzeon/picture/1536735294.jpg",
+    "type": " Action, Comedy, Fantasy, Horror",
+    "home":"h",
+    "genre": " Action, Comedy, Fantasy, Horror",
+    "url" : "cinema.html",
+    "trailer": "IS6l1K19N1U"
+},{
+    "name": "Yuri!!! On ICE",
+    "sposter": "https://cdn.myanimelist.net/images/anime/6/81149.jpg",
+    "bposter": "https://pbs.twimg.com/media/FLnQJLCVIAM0TSK.jpg:large",
+    "type": "Sports",
+    "home":"h",
+    "genre": "Award Winning, Sports",
+    "url" : "cinema.html",
+    "trailer": "O3VO4zinUOI"
+},{
+    "name": "BANANA FISH",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
+    "bposter": "https://f.ptcdn.info/585/071/000/qjod476m9HC4b0UY1Yr-o.jpg",
+    "type": "Action, Adventure, Drama, Suspense",
+    "home":"h",
+    "genre": "Action, Adventure, Drama, Suspense",
+    "url" : "cinema.html",
+    "trailer": "YUGS9j6pcV4"
+},{
+    "name": "Campfire Cooking in Another World with My Absurd Skill",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1239/129948l.jpg?_gl=1*2emnu9*_ga*NTUyMzQzNzkwLjE2OTk2NDI2NzA.*_ga_26FEP9527K*MTY5OTcxNTY3Ny43LjEuMTY5OTcxOTk1Mi4zMC4wLjA.",
+    "bposter": "https://cdn.whats-on-netflix.com/wp-content/uploads/2023/02/06172552/Campfire-Cooking-in-Another-World-with-my-Absurd-Skill-Netflix-jpg.webp",
+    "type": "Adventure, Comedy, Fantasy, Gourmet",
+    "home":"h",
+    "genre": "Adventure, Fantasy",
+    "url" : "cinema.html",
+    "trailer": "uLezuU0GL6Q"
+},{
+    "name": "Re-Main",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1840/113266l.jpg",
+    "bposter": "https://anime-i.com/img_files/3000/content-2358-1ca3a8f8fbe409393e0fd74575b863ca-440x246-99.jpg",
+    "type": "Sports",
+    "home":"h",
+    "genre": "Sports",
+    "url" : "cinema.html",
+    "trailer": "HvZ7xtjYMSk"
+},{
+    "name": "Gambling School",
+    "sposter": "https://cdn.myanimelist.net/images/anime/3/86578l.jpg",
+    "bposter": "https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2017/07/1707031211049.jpg",
+    "type": "Award Winning, Comedy, Supernatural",
+    "home":"h",
+    "genre": "Award Winning, Comedy, Supernatural",
+    "url" : "cinema.html",
+    "trailer": "O3VO4zinUOI"
+},{
+    "name": "Yasuke",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1681/113768.jpg",
+    "bposter": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/04/yasuke-anime.jpg",
+    "type": "Action, Fantasy",
+    "home":"h",
+    "genre": "Action, Fantasy",
+    "url" : "cinema.html",
+    "trailer": "s368avchxNM"
+},{
+    "name": "Dance Dance Danseur",
+    "sposter": "https://upload.wikimedia.org/wikipedia/en/1/16/Dance_Dance_Danseur_volume_1_cover.jpg",
+    "bposter": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/110/1240110-h-173743118546",
+    "type": " Drama",
+    "home":"h",
+    "genre": " Drama",
+    "url" : "cinema.html",
+    "trailer": "BJyYs7W0KHU"
+},{
+    "name": "Altair: A Record of Battles",
+    "sposter": "https://cdn.myanimelist.net/images/anime/3/86751.jpg",
+    "bposter": "https://www.anime-evo.net/wp-content/uploads/2017/12/Shoukoku-no-Altair-review-01.jpg",
+    "type": "Adventure, Drama, Fantasy",
+    "home":"h",
+    "genre": "Adventure, Drama, Fantasy",
+    "url" : "cinema.html",
+    "trailer": "4OCzcinr-24"
+},{
+    "name": " GARO -VANISHING LINE-",
+    "sposter": "https://cdn.myanimelist.net/images/anime/7/89845.jpg",
+    "bposter": "https://images.everyeye.it/img-articoli/garo-vanishing-line-recensione-serie-amazon-prime-video-recensione-v3-50895-1280x16.jpg",
+    "type": "Action, Fantasy, Supernatural",
+    "home":"h",
+    "genre": "Action, Fantasy, Supernatural",
+    "url" : "cinema.html",
+    "trailer": "e3Bqexemyfg"
+},{
+    "name": "Teekyuu",
+    "sposter": "https://cdn.myanimelist.net/images/anime/8/56463.jpg",
+    "bposter": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/74106695cd5ac95298e369bf7f5b30c6.jpe",
+    "type": "Comedy, Sports",
+    "home":"h",
+    "genre": "Comedy, Sports",
+    "url" : "cinema.html",
+    "trailer": "4fU886qphRg"
+},{
+    "name": "Granblue Fantasy The Animation Season 2",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1948/103308.jpg",
+    "bposter": "https://cdn.myanimelist.net/images/anime/1618/99723l.jpg",
+    "type": "Adventure, Fantasy",
+    "home":"h",
+    "genre": "Adventure, Fantasy",
+    "url" : "cinema.html",
+    "trailer": "5W5tvt1WhMo"
+},{
+    "name": "Listeners",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
+    "bposter": "https://i0.wp.com/www.theanimedaily.com/wp-content/uploads/2021/05/Listeners-Anime-Season-2-3.jpg?resize=1024%2C576&ssl=1",
+    "type": "Sci-Fi",
+    "home":"h",
+    "genre": "Sci-Fi",
+    "url" : "cinema.html",
+    "trailer": "M9dINy-ZDlQ"
+},{
+    "name": "Mr Love: Queen's Choice",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1623/111517.jpg",
+    "bposter": "https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2020/06/News-Thumbnail-for-FB-640-x-300-13.jpg",
+    "type": "Mystery, Romance, Sci-Fi",
+    "home":"h",
+    "genre": "Mystery, Romance, Sci-Fi",
+    "url" : "cinema.html",
+    "trailer": "ZuT8z7kVlPg"
+},{
+    "name": "The Gymnastics Samurai",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1484/109365.jpg",
+    "bposter": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Taiso-Samurai.jpg/220px-Taiso-Samurai.jpg",
+    "type": "Sports",
+    "home":"h",
+    "genre": "Sports",
+    "url" : "cinema.html",
+    "trailer": "_l7Zn8FriSA"
+},{
+    "name": "Dorohedoro: Bonus Curse or Extra Evil",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1611/105459.jpg",
+    "bposter": "https://cdn.myanimelist.net/images/anime/1743/111700l.jpg",
+    "type": " Action, Comedy, Fantasy, Horror",
+    "home":"h",
+    "genre": " Action, Comedy, Fantasy, Horror",
+    "url" : "cinema.html",
+    "trailer": "OHQvpEQoY_s"
+},{
+    "name": "Teekyuu 2",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1432/98659.jpg",
+    "bposter": "https://i.ytimg.com/vi/CiI0ntOD1X8/maxresdefault.jpg",
+    "type": "Comedy",
+    "home":"h",
+    "genre": "Comedy",
+    "url" : "cinema.html",
+    "trailer": "WaihsD2kKxc"
+},{
+    "name": "Garo: Crimson Moon",
+    "sposter": "https://cdn.myanimelist.net/images/anime/2/76029.jpg",
+    "bposter": "https://m.media-amazon.com/images/M/MV5BNTRmYjFiNTMtMjdhMC00ZmI0LTgyNTQtNTJlN2E5MmZhODc3XkEyXkFqcGdeQXVyNDQxNjIwNTI@._V1_QL75_UX500_CR0,212,500,281_.jpg",
+    "type": " Action, Fantasy",
+    "home":"h",
+    "genre": " Action, Fantasy",
+    "url" : "cinema.html",
+    "trailer": "5L5_Uyz2Oi4"
+},{
+    "name": "Shingeki no Bahamut: Genesis - Short Story",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1581/96672.jpg",
+    "bposter": "https://f.ptcdn.info/357/034/000/1439308034-bypjg8iaaa-o.jpg",
+    "type": "Action, Adventure, Fantasy",
+    "home":"h",
+    "genre": "Action, Adventure, Fantasy",
+    "url" : "cinema.html",
+    "trailer": "OYdXomC4K-Q"
+},{
+    "name": "Teekyuu 3",
+    "sposter": "https://cdn.myanimelist.net/images/anime/11/73503.jpg",
+    "bposter": "https://cdn.anicdn.net/media/videos/tmb/100211/1.jpg",
+    "type": "Comedy",
+    "home":"h",
+    "genre": "Comedy",
+    "url" : "cinema.html",
+    "trailer": "DOldrpBlZYs"
+},{
+    "name": "Garo Movie: Divine Flame",
+    "sposter": "https://cdn.myanimelist.net/images/anime/12/83157.jpg",
+    "bposter": "https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2018/04/DbAXmjlV4AAHrHB-1024x576.jpg?resize=600%2C338",
+    "type": "Action, Fantasy",
+    "home":"h",
+    "genre": "Action, Fantasy",
+    "url" : "cinema.html",
+    "trailer": "U41wdlnveRQ"
+},{
+    "name": "Days: Touin Gakuen-sen!",
+    "sposter": "https://cdn.myanimelist.net/images/anime/12/88505.jpg",
+    "bposter": "https://pbs.twimg.com/media/D18Sh7JUkAIITX_.jpg",
+    "type": "Sports",
+    "home":"h",
+    "genre": "Sports",
+    "url" : "cinema.html",
+    "trailer": "XN2yaoypaPs"
+},{
+    "name": "Uchitama?! Have you seen my Tama?",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1624/103162.jpg",
+    "bposter": "https://i.ytimg.com/vi/T9hXc43UlaU/maxresdefault.jpg",
+    "type": "Slice of Life",
+    "home":"h",
+    "genre": "Slice of Life",
+    "url" : "cinema.html",
+    "trailer": "sBBFT-nwmec"
+},{
+    "name": "Yuri!!! on Ice The Movie: Ice Adolescence",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1054/139139.jpg",
+    "bposter": "https://sm.ign.com/ign_in/screenshot/default/yuri-on-ice-film_ec2f.jpg",
+    "type": "Sports",
+    "home":"h",
+    "genre": "Sports",
+    "url" : "cinema.html",
+    "trailer": "8Mk4Uykq5I8"
+},{
+    "name": "Idol Incidents",
+    "sposter": "https://cdn.myanimelist.net/images/anime/1137/117403.jpg",
+    "bposter": "https://3.bp.blogspot.com/-IpAWFvT9w3E/WPB1MjKaHAI/AAAAAAAAAag/lbaldfWtRsAi3Sbx4h4XcIecpCBaZWv2wCLcB/s1600/maxresdefault%2B%25283%2529.jpg",
+    "type": "Slice of Life",
+    "home":"h",
+    "genre": "Slice of Life",
+    "url" : "cinema.html",
+    "trailer": "56qJdGgYZdo"
+}
 ]
