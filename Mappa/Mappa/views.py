@@ -5,7 +5,7 @@ views = Blueprint('views', __name__)
 @views.route('/cinema')
 def cinema():
     movie_name = request.args.get('movie')
-    with open('Mappa\\Mappa\\static\\app.json') as movie:
+    with open('Mappa\\Mappa\\static\\app.json', 'r', encoding="utf8") as movie:
         movie_list = json.loads(movie.read())
         for i in movie_list:
             if i['name'] == movie_name:
@@ -15,3 +15,6 @@ def cinema():
 def home():
 
     return render_template("app.html")
+@views.route('/service')
+def service():
+    return render_template("FAQ.html")
