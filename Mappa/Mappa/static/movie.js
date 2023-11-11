@@ -20,7 +20,7 @@ fetch(json_url).then(Response => Response.json())
             let { name, sposter, bposter, genre, url } = ele;
             let card = document.createElement('a');
             card.classList.add('card');
-            card.href = url;
+            card.href = `cinema?movie=${name}`;
             card.innerHTML = `
             <img src="${sposter}" alt="${name}" class="poster">
             <div class="rest_card">

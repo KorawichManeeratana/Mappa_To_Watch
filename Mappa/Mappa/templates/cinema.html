@@ -3,17 +3,21 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="../static/app.css">
     <link rel="shortcut icon" href="../static/img/frr.png">
+    <link rel="stylesheet" href="../static/app.json">
     <title>Mappa-To-Watch - {{name}} </title>
 </head>
 
 <body>
     <header>
-        <video autoplay loop muted play-inline id="Background">
-            <source src="../static/pic/TVアニメ『呪術廻戦』第2期「渋谷事変」ノンクレジットOPムービー／OPテーマ：King Gnu「SPECIALZ」｜毎週木曜夜11時56分～MBS_TBS系列全国28局にて放送中!!.mp4" type="video/mp4">
-        </video> 
+        <div>
+            <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;"
+                src="https://www.youtube.com/embed/{{video_id}}?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&mute=1"
+                frameborder="0" allow="autoplay; fullscreen;" allowfullscreen muted></iframe>
+        </div>
         <nav>
             <div class="logo_ul">
                 <img src="../static/pic/frr.png" alt="">
@@ -34,8 +38,9 @@
             </div>
             <div class="search_user">
                 <input type="text" placeholder="Find your type..." id="search_input">
-                <img src="../static/pic/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg" class="login-button" >
-                <div class="search"> 
+                <img src="../static/pic/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg"
+                    class="login-button">
+                <div class="search">
                     <!--<a href="#">
                         <img src="" alt="">
                         <div class="cont">
@@ -54,7 +59,7 @@
                 <h6>Genre :</h6>
                 <h5 id="gen">{{genre}}</h5>
             </div>
-            <div class="btns">    
+            <div class="btns">
                 <a href="#" id="play">Watch <i class="bi bi-play-fill"></i></a>
             </div>
         </div>
@@ -62,115 +67,109 @@
         <div class="wrapper">
             <!-- Close icon in Login -->
             <span class="close-icon">
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
-                    <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"/>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg"
+                    viewBox="0 0 16 16">
+                    <path
+                        d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z" />
                 </svg>
             </span>
             <!-- Login Box -->
-        <form method="LOGIN">
-            <div class="login_formbox">
-                <h2>Login</h2>
-                <form action="#">
-                    <div class="Input-box">
-                        <span class="icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-                                 <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
-                            </svg>
-                        </span>
-            <!-- รับ Input Email -->
-                        <input type="email" required
-                        id="email"
-                        name="email"
-                        class="form-control"
-                        >
-                        <label for="email">Email</label>
-                    </div>
-                    <div class="Input-box">
-                        <span class="icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lock-fill" viewBox="0 0 16 16">
-                                <path d="M8 1a2 2 0 0 1 2 2v4H6V3a2 2 0 0 1 2-2zm3 6V3a3 3 0 0 0-6 0v4a2 2 0 0 0-2 2v5a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2z"/>
-                            </svg>
-                        </span>
-            <!-- Input Password -->
-                        <input type="password" required
-                        id="password"
-                        class="password"
-                        name="password"
-                        >
-                        <label for="password">Password</label>
-                    </div>
-                    <div class="remember-forgot">
-                        <label><input type="checkbox">Remember me</label>
-                        <a href="#">Forgot Password?</a>
-                    </div>
-             <!-- Submit Button as Login Button -->
-                    <button type="submit" class="btn">Login</button>
+            <form method="LOGIN">
+                <div class="login_formbox">
+                    <h2>Login</h2>
+                    <form action="#">
+                        <div class="Input-box">
+                            <span class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                    class="bi bi-envelope-fill" viewBox="0 0 16 16">
+                                    <path
+                                        d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z" />
+                                </svg>
+                            </span>
+                            <!-- รับ Input Email -->
+                            <input type="email" required id="email" name="email" class="form-control">
+                            <label for="email">Email</label>
+                        </div>
+                        <div class="Input-box">
+                            <span class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                    class="bi bi-lock-fill" viewBox="0 0 16 16">
+                                    <path
+                                        d="M8 1a2 2 0 0 1 2 2v4H6V3a2 2 0 0 1 2-2zm3 6V3a3 3 0 0 0-6 0v4a2 2 0 0 0-2 2v5a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2z" />
+                                </svg>
+                            </span>
+                            <!-- Input Password -->
+                            <input type="password" required id="password" class="password" name="password">
+                            <label for="password">Password</label>
+                        </div>
+                        <div class="remember-forgot">
+                            <label><input type="checkbox">Remember me</label>
+                            <a href="#">Forgot Password?</a>
+                        </div>
+                        <!-- Submit Button as Login Button -->
+                        <button type="submit" class="btn">Login</button>
 
-                    <div class="reigister">
-                        <p>Don't have an account?<a class="regis-link" href="#">Register</a></p>
-                    </div>
-            </div>
-        <!-- Register Box -->
-    </form>
-    <form method="REGIS">
-            <div class="regis_formbox">
-                <h2>Registration</h2>
-                <form action="#">
-            <!-- Regis Username Box-->
-                    <div class="Input-box">
-                        <span class="icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
-                                <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3Zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"/>
-                            </svg>
-                        </span>
-                        <input type="text" required
-                        id="username"
-                        name="username"
-                        class="form-control">
-                        <label for="username">Username</label>
-                    </div>
-            <!-- Regis Email Box-->
-                    <div class="Input-box">
-                        <span class="icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-                                <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
-                            </svg>
-                        </span>
-                        <input class="form-control"
-                         type="email" required
-                         id="email"
-                         name="email"
-                        >
-                        <label for="email">Email</label>
-                    </div>
-                    <div class="Input-box">
-                        <span class="icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lock-fill" viewBox="0 0 16 16">
-                                <path d="M8 1a2 2 0 0 1 2 2v4H6V3a2 2 0 0 1 2-2zm3 6V3a3 3 0 0 0-6 0v4a2 2 0 0 0-2 2v5a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2z"/>
-                            </svg>
-                        </span>
-            <!-- Regis Password -->
-                        <input class="form-control"
-                         type="password" required
-                         id="password"
-                         name="password"
-                         >
-                        <label for="password">Password</label>
-                    </div>
-                    <div class="remember-forgot">
-                        <label><input type="checkbox">I agree to the terms & conditions</label>
-                    </div>
-            <!-- Regis button -->
-                    <button type="submit" class="btn btn-primary">Register</button>
-    </form>
+                        <div class="reigister">
+                            <p>Don't have an account?<a class="regis-link" href="#">Register</a></p>
+                        </div>
+                </div>
+                <!-- Register Box -->
+            </form>
+            <form method="REGIS">
+                <div class="regis_formbox">
+                    <h2>Registration</h2>
+                    <form action="#">
+                        <!-- Regis Username Box-->
+                        <div class="Input-box">
+                            <span class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                    class="bi bi-person-fill" viewBox="0 0 16 16">
+                                    <path
+                                        d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3Zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" />
+                                </svg>
+                            </span>
+                            <input type="text" required id="username" name="username" class="form-control">
+                            <label for="username">Username</label>
+                        </div>
+                        <!-- Regis Email Box-->
+                        <div class="Input-box">
+                            <span class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                    class="bi bi-envelope-fill" viewBox="0 0 16 16">
+                                    <path
+                                        d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z" />
+                                </svg>
+                            </span>
+                            <input class="form-control" type="email" required id="email" name="email">
+                            <label for="email">Email</label>
+                        </div>
+                        <div class="Input-box">
+                            <span class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                    class="bi bi-lock-fill" viewBox="0 0 16 16">
+                                    <path
+                                        d="M8 1a2 2 0 0 1 2 2v4H6V3a2 2 0 0 1 2-2zm3 6V3a3 3 0 0 0-6 0v4a2 2 0 0 0-2 2v5a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2z" />
+                                </svg>
+                            </span>
+                            <!-- Regis Password -->
+                            <input class="form-control" type="password" required id="password" name="password">
+                            <label for="password">Password</label>
+                        </div>
+                        <div class="remember-forgot">
+                            <label><input type="checkbox">I agree to the terms & conditions</label>
+                        </div>
+                        <!-- Regis button -->
+                        <button type="submit" class="btn btn-primary">Register</button>
+                    </form>
                     <div class="reigister">
                         <p>Already have an account?<a class="login-link" href="#">Login</a></p>
                     </div>
-            </div>
+                </div>
         </div>
     </header>
     <script src="../static/movie.js"></script>
     <script src="../static/back.js"></script>
     <script src="../static/login.js"></script>
 </body>
+
 </html>
