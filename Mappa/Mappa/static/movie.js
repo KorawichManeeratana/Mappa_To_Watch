@@ -17,7 +17,7 @@ let json_url = "../static/app.json";
 fetch(json_url).then(Response => Response.json())
     .then((data) => {
         data.forEach((ele, i) => {
-            let { name, sposter, bposter, genre, url } = ele;
+            let { name, sposter, bposter, genre} = ele;
             let card = document.createElement('a');
             card.classList.add('card');
             card.href = `cinema?movie=${name}`;
@@ -40,7 +40,7 @@ fetch(json_url).then(Response => Response.json())
         document.getElementById('gen').innerText = data[0].genre;
 
         data.forEach(element => {
-            let { name, sposter, genre, url } = element;
+            let { name, sposter, genre} = element;
             let card = document.createElement('a');
             card.classList.add('card');
             card.href = `cinema?movie=${name}`;

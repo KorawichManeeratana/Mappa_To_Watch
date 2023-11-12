@@ -4,16 +4,16 @@
     "bposter": "../static/pic/jujutshibnuya.jpg",
     "genre": "Action, Award Winning, Fantasy",
     "type": "action",
-    "home":"h",
+    "intro":"เรื่องราวของ อิตาโดริ ยูจิ เด็กหนุ่มธรรมดาที่กลืนวัตถุต้องสาปที่เรียกว่า นิ้วของสุคุนะเข้าไปเพราะต้องการปกป้องผู้คนแต่มันกลับเปลี่ยนชีวิตของเขาไปในพริบตาเพราะเขากลายเป็นสิ่งที่เรียกว่าภาชนะของสุคุนะ ซึ่งเป็นคำสาปที่อันตรายที่สุดหรือราชาแห่งคำสาป",
     "url" : "cinema.html",
-    "trailer": "4A_X-Dvl0ws&t=1s"
+    "trailer": "v8bZVdTgXoY"
 }, {
     "name": "Jujutsu Kaisen 0",
     "sposter": "https://upload.wikimedia.org/wikipedia/en/7/77/Gekij%C5%8D-ban_Jujutsu_Kaisen_0.png",
     "bposter": "https://www.otakutale.com/wp-content/uploads/2021/06/Jujutsu-Kaisen-0-Visual-Revealed.jpg",
     "genre": "Action, Fantasy",
     "type": "action",
-    "home":"h",
+    "intro":"เรื่องราวของเด็กหนุ่มนามว่า “อคคทสึ ยูตะ” ที่เคยให้สัญญากับ “โอริโมโตะ ริกะ” เพื่อนวัยเด็กของตัวเองว่าเมื่อเติบโตขึ้น ทั้งสองจะแต่งงานกันและรักกันตลอดไป แต่แล้วกลับต้องมาสูญเสียเด็กสาวไปต่อหน้าต่อตา พร้อมกับการกลายร่างเป็นวิญญาณปีศาจที่คอยหลอกหลอนและทวงสัญญาคำสาปที่ยากเกินจะแก้ไข จนทำให้ยูตะแทบจะไม่อยากมีชีวิตอยู่ ก่อนที่เขาจะพบกับ “ซาโตรุ โกโจ” อาจารย์ประจำโรงเรียนเฉพาะทางไสยศาสตร์นครโตเกียว ที่เข้ามาชักนำเขาเข้าสู่โรงเรียนไสยเวท และช่วยจุดประกายแห่งความหวัง ว่าเขาจะสามารถแก้คำสาปร้ายที่ตามติดเป็นเงาตามตัวนั้นได้ กับการฝึกฝน การเรียนรู้ และเรื่องราวมากมายที่รอให้เขาต้องเผชิญ",
     "url" : "cinema.html",
     "trailer": "e8nij7jRB6M"
 },{
@@ -22,34 +22,34 @@
     "bposter": "../static/pic/jjkss2.jpg",
     "genre": "Action, Fantasy",
     "type": "action",
-    "home":"h",
+    "intro":"เรื่องราวของ อิตาโดริ ยูจิ เด็กหนุ่มธรรมดาที่กลืนวัตถุต้องสาปที่เรียกว่า นิ้วของสุคุนะเข้าไปเพราะต้องการปกป้องผู้คนแต่มันกลับเปลี่ยนชีวิตของเขาไปในพริบตาเพราะเขากลายเป็นสิ่งที่เรียกว่าภาชนะของสุคุนะ ซึ่งเป็นคำสาปที่อันตรายที่สุดหรือราชาแห่งคำสาป",
     "url" : "cinema.html",
-    "trailer": "PKHQuQF1S8k"
+    "trailer": "5yb2N3pnztU"
 }, {
     "name": "Attack on Titan",
     "sposter": "../static/pic/Attack-on-Titan.jpg",
     "bposter": "../static/pic/Attack-On-Titan-Wallpapers.jpg",
     "genre": "Action, Drama, Suspense",
     "type": "action",
-    "home":"h",
+    "intro":"เรื่องราวในปี ค.ศ. 845 เมื่อมวลมนุษยชาติต้องเผชิญกับชะตากรรมซ้ำรอยเดิมอีกครั้ง เมื่อ ไททัน ศัตรูขนาดมหึมาที่มาพร้อมกับพลังมหาศาล ได้กลับมาปรากฏตัวและจู่โจมมนุษยชาติ ภายหลังจากสร้างกำแพงเมืองปกป้องตัวเองถึง 3 ชั้นและอยู่อย่างสงบสุขเรื่อยมากว่า 100 ปี ส่งผลให้มนุษย์ต้องเผชิญวิกฤตที่สุ่มเสี่ยงต่อการสูญสิ้นเผ่าพันธุ์ เมื่อเหล่าไททันที่อดอยากมากว่า 100 ปี ได้ออกอาละวาดจับผู้คนเป็นอาหาร จนให้กำแพงเมืองชั้นนอกสุด ได้แก่ “วอลล์มาเรีย” ถูกทำลายลง และมนุษยชาติต้องสูญเสียประชากรไปกว่าละ 20 รวมถึงพื้นที่ 1 ใน 3 ของทั้งหมด",
     "url" : "cinema.html",
-    "trailer": "LHtdKWJdif4"
+    "trailer": "8OkpRK2_gVs"
 }, {
     "name": "Chainsaw man",
     "sposter": "../static/pic/Sanook_Chainsaw-Man_Key-Art.jpg",
     "bposter": "../static/pic/denji-chainsaw-man-01-700x400-1.jpg",
     "genre": "Action, Fantasy",
     "type": "action",
-    "home":"h",
+    "intro":"เรื่องราวของ เด็นจิ เด็กหนุ่มยากจนที่ต้องทำอาชีพรับจ้างล่าปีศาจเพื่อหาเงินใช้หนี้ โดยมี โปจิตะ ปีศาจเลื่อยยนต์สุดน่ารักเป็นคู่หู กระทั่งวันหนึ่งเด็นจิพลาดท่าให้กับปีศาจจนเสียชีวิต โปจิตะจึงตัดสินใจมอบหัวใจให้กับเด็นจิเพื่อช่วยชีวิตเขา ตอนนั้นเองที่เด็นจิได้กลายร่างเป็นปีศาจเลื่อยยนต์สุดแกร่ง และด้วยพลังอันเหลือล้นของปีศาจเลื่อยยนต์ ชื่อของเด็นจิจึงไปเข้าตากลุ่มนักล่าปีศาจของทางการเข้า จึงทำให้เขาถูกเชื้อเชิญให้มาร่วมงานกับ มาคิมะ หัวหน้าสาวที่เต็มไปด้วยปริศนา เพื่อทำภารกิจกำจัดปีศาจสุดแกร่งนาม ปีศาจปืน เรื่องราวการต่อสู้ที่จะเปลี่ยนชีวิตของเด็นจิไปตลอดกาลจึงเริ่มต้นขึ้น",
     "url" : "cinema.html",
-    "trailer": "q15CRdE5Bv0"
+    "trailer": "dFlDRhvM4L0"
 }, {
     "name": "Dororo",
     "sposter": "../static/pic/1248598-img.uj7u9a.156lh.jpg",
     "bposter": "../static/pic/82483224251183e88740242144f59984.jpg",
     "genre": "Action, Adventure, Supernatural",
     "type": "adventure" ,
-    "home":"h",
+    "intro":"เฮียกกุมารุ ทารกที่ถูกแบ่งร่างให้กับปีศาจ 48 ตน เพื่อให้ผู้เป็นบิดามีอำนาจ หมอช่วยปลูกถ่ายอวัยวะเทียมให้เขาพอมีชีวิตต่อได้ เมื่อโตขึ้นเขาได้ออกเดินทางพร้อมเด็กหัวขโมย โดโรโระ ตามหาพวกปีศาจเพื่อทวงชิ้นส่วนร่างเขาคืน",
     "url" : "cinema.html",
     "trailer": "v3ApcTz1lwE"
 }, {
@@ -58,16 +58,16 @@
     "bposter": "../static/pic/The-God-of-High-School.jpg",
     "genre": "Action, Fantasy",
     "type": "action",
-    "home":"h",
+    "intro":"เรื่องราวของ Jin Mori ชายหนุ่มวัย 17 ปี ที่เป็นนักสู้เทควันโด้ที่มีความสามารถสูงมาก ในระหว่างที่เขากำลังเดินทางท้าประลองกับคนอื่นเพื่อที่ตัวเองจะได้เป็นสุดยอดนักสู้ เขาก็ถูกเชิญให้เข้าร่วมงานต่อสู้ \"The God of High School\" ที่เป็นงานแข่งขันที่สนับสนุนโดยองค์กรลึกลับ และงานนี้ยังรวมนักสู้จากทั่วทั้งเกาหลีเพื่อหาตัวแทนไปแข่งขันระดับโลก และผู้ที่ชนะก็จะได้รับรางวัลเป็นสิ่งที่ตัวเองปรารถนา",
     "url" : "cinema.html",
-    "trailer": "oqjwUfprNAk"
+    "trailer": "G9B1KeZASrw"
 }, {
     "name": "Zankyou no Terror",
     "sposter": "../static/pic/Zankyou no Terror.jpg",
     "bposter": "../static/pic/Zankyou no Terror1.jpg",
     "genre": "Mystery, Suspense",
     "type": "Psychological",
-    "home":"h",
+    "intro":"ในฤดูร้อนได้เกิดการก่อการร้ายขึ้นในกรุงโตเกียวประเทศญี่ปุ่น ผู้ต้องสงสัยเบื้องหลังการก่อเหตุที่ปลุกให้ประเทศที่สมบูรณ์ให้ตื่นจาก ภวังค์ กลับเป็นเด็กหนุ่ม 2 คน ขณะนี้ผู้ก่อการร้ายที่ใช้ชื่อว่า Sphinx กำลังสร้างเกมที่ยิ่งใหญ่ โดยใช้ทั้งประเทศญี่ปุ่นเป็นเวที",
     "url" : "cinema.html",
     "trailer": "nLVy50LnLMM"
 }, {
@@ -76,7 +76,7 @@
     "bposter": "../static/pic/jgr_01_129_1_.jpg",
     "genre": "Action, Adventure, Fantasy",
     "type": "adventure",
-    "home":"h",
+    "intro":"กาบิมารุ ผู้ว่างเปล่า นินจาผู้แข็งแกร่งและน่าหวาดกลัวที่สุด อยู่มาวันหนึ่งเขาถูกทางการจับกุมตัว ทว่าเขาได้รับข้อเสนอให้พ้นผิด โดยมีเงื่อนไขว่าเขาและนักโทษกลุ่มหนึ่งต้องเดินทางไปดินแดนที่ร่ำลือว่าเป็นแดนสุขาวดี เพื่อค้นหา “ยาอมตะ” พร้อมกับตระกูลนักตัดเศียร “ยามาดะอาซาเอมอน” การเดินทางสู่ดินแดนที่ไม่มีผู้ใดรอดชีวิตกลับมาได้เปิดฉากขึ้นแล้ว",
     "url" : "cinema.html",
     "trailer": "1JLeeulO8AU"
 }, {
@@ -84,25 +84,25 @@
     "sposter": "../static/pic/bx19647-cIy7ShTL6e9h.jpg",
     "bposter": "../static/pic/Hajime-No-Ippo-Episode-10-01-600x337.jpg",
     "type": "sport",
-    "home":"h",
+    "intro":"มาคุโนอุจิ อิปโป เป็นเด็กหนุ่มลูกชาวประมงที่ทั้งกตัญญูและขยันขันแข็ง ก่อนไปโรงเรียนเขาจะช่วยแม่ทำงาน และเมื่อกลับจากโรงเรียนก็จะรีบกลับมาช่วยแม่จัดของลงเรือทุกวัน ทำให้อิปโปไม่ค่อยมีเพื่อน บวกกับความที่มีนิสัยขี้ขลาด อ่อนแอ ไม่สู้คน เขาจึงมักจะถูกเพื่อนในชั้นเรียนรังแกอยู่เสมอ ชีวิตของอิปโปดำเนินเป็นวัฏจักรเช่นนี้มาตลอด จนกระทั่งวันหนึ่ง เมื่อ ทากามูระ มาโมรุ ได้เข้ามาช่วยเหลือในขณะที่เขากำลังถูกรังแก อิปโปรู้สึกประทับใจในความเก่งกาจของทากามูระ และฝันอยากจะชกมวยอย่างทากามูระบ้าง แม้เส้นทางสู่การเป็นนักมวยของเขาจะไม่ได้โรยด้วยกลีบกุหลาบ แต่อย่างน้อยอิปโปก็รู้แล้วว่าสิ่งที่ตนเองรักและต้องการที่จะทำที่สุดนั้น ไม่มีอย่างอื่นอีกแล้วนอกจาก มวย",
     "genre": "Sports",
     "url" : "cinema.html",
-    "trailer": "../static/pic/d7e1ad0fb0b2cfe61cb7bec380e71a73.png"
+    "trailer": "W03A_rHV6B4"
 }, {
     "name": "Takt Op. Destiny",
     "sposter": "https://cdn.myanimelist.net/images/anime/1449/117797.jpg",
     "bposter": "../static/pic/takt.jpg",
     "type": "Action, Fantasy, Sci-Fi",
-    "home":"h",
+    "intro":"โลกถูกรุนรานด้วยปีศาจร้ายที่แข็งแกร่งแต่แพ้ต่อเสียงเพลง ทาคท์ วาทยกร พาร์ทเนอร์ของ เดสทินี่ ผู้เป็นมิวสิคคาร์ท สู้ร่วมกันเพื่อขับไล่มอนสเตอร์",
     "genre": "Action, Fantasy, Sci-Fi",
     "url" : "cinema.html",
-    "trailer": "Mb0k1HLm3Ls"
+    "trailer": "wmWX6ZGSzuE"
 }, {
     "name": "Inuyashiki",
     "sposter": "https://cdn.myanimelist.net/images/anime/7/88471.jpg",
     "bposter": "../static/pic/inu.jpg",
     "type": "Action, Drama, Sci-Fi",
-    "home":"h",
+    "intro":"อินุยาชิกิ อิจิโร่ ชายแก่ที่เหลือชีวิตแค่เพียง 3 เดือน ครอบครัวไม่มีใครสนใจเขาอีกแล้วเหลือเพียงสุนัขที่ยังห่วงเขา จนวันหนึ่งยานของพวกเอเลี่ยนเกิดอุบัติเหตุจนทำให้เขาเสียชีวิต เอเลี่ยนจึงสร้างร่างใหม่แทนร่างมนุษย์ ในร่างของเครื่องจักรที่มีสมรรถนะสูง ชายชราที่ยังได้ใช้ชีวิตต่อจึงหวังที่จะใช้พลังในทางที่ดี ตรงข้ามกับหนุ่มวัยรุ่น ชิชิกามิ ฮิโระ ที่พบชะตากรรมเดียวกับอินุยาชิกิ แต่ความคิดกลับต่างกัน เขาเลือกใช้พลังในการสังหารคนที่เขาไม่ชอบ ผู้บริสุทธิ์ คนที่ขวางทางเขา จนไม่มีใครในประเทศญี่ปุ่นหยุดเขาได้อีก การต่อสู้ของชายสองคนที่ได้รับชีวิตใหม่จากเหตุการณ์คล้ายกัน แต่ใช้พลังและชีวิตใหม่ที่ได้รับสวนทางกัน ได้เริ่มต้นขึ้น",
     "genre": "Action, Drama, Sci-Fi",
     "url" : "cinema.html",
     "trailer": "BEQe5xvsv8w"
@@ -111,7 +111,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/1084/128208.jpg",
     "bposter": "../static/pic/zombie.png",
     "type": "Award Winning, Comedy, Supernatural",
-    "home":"h",
+    "intro":"เรื่องราวของมินาโมโตะ ซากุระ เด็กสาวผู้อยากเป็นไอดอล แต่ดันประสบอุบัติเหตุรถชนเสียก่อน พอตื่นมาก็ถูกล้อมรอบไปด้วยซอมบี้ ก่อนจะรู้ตัวว่าตัวเองก็เป็นซอมบี้เหมือนกัน?!",
     "genre": "Award Winning, Comedy, Supernatural",
     "url" : "cinema.html",
     "trailer": "O3VO4zinUOI"
@@ -120,7 +120,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/1740/104786.jpg",
     "bposter": "https://www.bloggang.com/data/i/iamzeon/picture/1536735294.jpg",
     "type": " Action, Comedy, Fantasy, Horror",
-    "home":"h",
+    "intro":"โฮล แหล่งทดลองของผู้ขมังเวท ไคมัน ชายที่ถูกสาปให้เป็นหัวอีกัวน่า เสียความทรงจำในอดีต ตัวเขาออกเดินทางพร้อมเพื่อน ต่อสู้และตามล่าพวกผู้ใช้เวทเพื่อค้นหาเรื่องราวของตน",
     "genre": " Action, Comedy, Fantasy, Horror",
     "url" : "cinema.html",
     "trailer": "IS6l1K19N1U"
@@ -129,26 +129,26 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/6/81149.jpg",
     "bposter": "https://pbs.twimg.com/media/FLnQJLCVIAM0TSK.jpg:large",
     "type": "Sports",
-    "home":"h",
+    "intro":"คัทสึกิ ยูริ แบกรับความหวังของคนทั้งญี่ปุ่นในการแข่งขันฟิกเกอร์สเก็ตกรังด์ปรีซ์ แต่ต้องพบกับความผิดหวังด้วยการพ่ายแพ้หมดรูปในรอบสุดท้าย เขาจึงเดินทางกลับบ้านเกิดในจังหวัดคิวชูเพื่อหลบตัวอยู่ในบ้านของครอบครัวเขาเอง ครึ่งหนึ่งในใจของเขายังอยากที่จะแข่งต่อ แต่อีกครึ่งหนึ่งก็อยากที่จะเกษียนตัวเอง แล้วจู่ๆ แชมป์โลกห้าสมัยซ้อนอย่าง วิคเตอร์ นิคิโฟรอฟ ก็มาตัดสินใจเป็นโค้ชให้กับเขา เรื่องนี้ทำให้ ยูริ พลิเซตสกี้ นักฟิกเกอร์สเก็ตหนุ่มน้อยที่ต้องการจะก้าวข้ามนักกีฬารุ่นพี่รีบเดินทางมาญี่ปุ่น แล้วยูริทั้งสองคนกับแชมป์โลกจากรัสเซียก็ทำการแข่งขันกันในฟิกเกอร์สเก็ตกรังด์ปรีซ์แบบที่ไม่เคยมีใครเห็นมาก่อน",
     "genre": "Award Winning, Sports",
     "url" : "cinema.html",
-    "trailer": "O3VO4zinUOI"
+    "trailer": "5u3RGhznctE"
 },{
     "name": "BANANA FISH",
     "sposter": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
     "bposter": "https://f.ptcdn.info/585/071/000/qjod476m9HC4b0UY1Yr-o.jpg",
     "type": "Action, Adventure, Drama, Suspense",
-    "home":"h",
+    "intro":"หตุการณ์ในปี 1985 แอช ลินซ์ หัวหน้าแก๊งหนุ่มในย่านดาวทาวน์ของนิวยอร์ค ดูแลพี่ชาย กริฟ อดีตทหารอเมริกันที่เสียสติยิงพวกเดียวกันในสงครามเวียดนามเมื่อ 12 ปีก่อน เบาะแสเดียวที่ทราบ คือ คำว่า บาบาน่าฟิซ ที่พี่ชายพูดตลอดเวลา เขามาพัวพันกับคดีที่เกิดขึ้นในนิวยอร์คที่เชื่อมโยงกับสิ่งที่เกิดขึ้นกับพี่ชายเขา จนพบผู้ช่วยช่างกล้องชาวญี่ปุ่น โอคุมุระ เอจิ ที่มาพัวพันกับเรื่องนี้ และยังพัวพันกับ ดีโน กอลซิเน่ มาเฟียที่เคยอุปการะเขาในตอนเด็ก",
     "genre": "Action, Adventure, Drama, Suspense",
     "url" : "cinema.html",
     "trailer": "YUGS9j6pcV4"
 },{
-    "name": "Campfire Cooking in Another World with My Absurd Skill",
+    "name": "Tondemo Skill de Isekai Hourou Meshi",
     "sposter": "https://cdn.myanimelist.net/images/anime/1239/129948l.jpg?_gl=1*2emnu9*_ga*NTUyMzQzNzkwLjE2OTk2NDI2NzA.*_ga_26FEP9527K*MTY5OTcxNTY3Ny43LjEuMTY5OTcxOTk1Mi4zMC4wLjA.",
     "bposter": "https://cdn.whats-on-netflix.com/wp-content/uploads/2023/02/06172552/Campfire-Cooking-in-Another-World-with-my-Absurd-Skill-Netflix-jpg.webp",
     "type": "Adventure, Comedy, Fantasy, Gourmet",
-    "home":"h",
-    "genre": "Adventure, Fantasy",
+    "intro":"มุโคดะ สึโยชิ ถูกอัญเชิญจากญี่ปุ่นมายังโลกแฟนตาซีพร้อมอีก 3 คน แต่เขากลับมีพลังระดับคนธรรมดา จึงขอออกผจญภัยตามลำพัง มีเพียงสกิลเดียวที่ติดตัวมา “เน็ตซูเปอร์” ที่สามารถสั่งซื้อของจากซูเปอร์มาเก็ตจากญี่ปุ่นได้ด้วยเงินของโลกแฟนตาซี อีกทั้งเขาสามารถทำอาหารได้ดี ทำให้เขาทั้งสามารถหาเงินจากการขายอาหาร ซึ่งช่วยให้เขาเป็นที่รู้จักและหาพรรคพวกที่แข็งแกร่งได้",
+    "genre": "Adventure, Comedy, Fantasy, Gourmet",
     "url" : "cinema.html",
     "trailer": "uLezuU0GL6Q"
 },{
@@ -156,25 +156,25 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/1840/113266l.jpg",
     "bposter": "https://anime-i.com/img_files/3000/content-2358-1ca3a8f8fbe409393e0fd74575b863ca-440x246-99.jpg",
     "type": "Sports",
-    "home":"h",
-    "genre": "Sports",
+    "intro":"เรื่องราวของ Kiyomizu Minato นักเรียนมัธยมต้นชั้นปีที่ 3 ที่เลิกเล่นกีฬาโปโลน้ำด้วยสาเหตุบางอย่าง พอย้ายโรงเรียนขึ้นมาระดับมัธยมปลาย เขาก็ได้พบกับพวกพ้องที่ชักชวนให้เขาไปเข้าชมรมโปโลน้ำแล้วได้กลับมาเล่นมันอีกครั้ง แต่ชมรมนี้กลับอ่อนแอมากทำให้เขาและพวกพ้องต้องร่วมมือกันฝ่าฟันอุปสรรคต่างๆที่ถาโถมเข้ามา",
+    "genre": "School, Sports",
     "url" : "cinema.html",
     "trailer": "HvZ7xtjYMSk"
 },{
-    "name": "Gambling School",
+    "name": "Kakegurui",
     "sposter": "https://cdn.myanimelist.net/images/anime/3/86578l.jpg",
     "bposter": "https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2017/07/1707031211049.jpg",
     "type": "Award Winning, Comedy, Supernatural",
-    "home":"h",
+    "intro":"โรงเรียนเอกชนเฮียคคะโอ สืบทอดระบบการสอนที่เป็นเอกลักษณ์มากว่าร้อยปี ไม่เน้นการสอนวิชาแบบทั่วไปอย่างกีฬาหรือท่องตำราที่รกสมอง เน้นการสอนอ่านคู่แข่งและศาสตร์แห่งการเจรจากับผู้อื่น หรือที่เรียกว่า “การเดิมพัน” ในโรงเรียนยังมีการแบ่งชนชั้นตามธรรมเนียมตกทอดมา ผู้แพ้การเดิมพันแทบไม่เหลืออนาคต ในขณะผู้ชนะจะถูกชื่นชม สาวสวย จาบามิ ยูเมะโกะ ได้ย้ายมาเรียนที่นี่",
     "genre": "Award Winning, Comedy, Supernatural",
     "url" : "cinema.html",
-    "trailer": "O3VO4zinUOI"
+    "trailer": "g04QC2Ewnl4"
 },{
     "name": "Yasuke",
     "sposter": "https://cdn.myanimelist.net/images/anime/1681/113768.jpg",
     "bposter": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/04/yasuke-anime.jpg",
     "type": "Action, Fantasy",
-    "home":"h",
+    "intro":"คนเรือผู้รักสงบซึ่งถูกขนานนามว่า \"ซามูไรผิวดำ\" ถูกดึงกลับมาพัวพันกับความขัดแย้ง เมื่อเขาต้องปกป้องสาวน้อยคนหนึ่งซึ่งมีพลังลึกลับชวนพิศวง",
     "genre": "Action, Fantasy",
     "url" : "cinema.html",
     "trailer": "s368avchxNM"
@@ -183,7 +183,7 @@
     "sposter": "https://upload.wikimedia.org/wikipedia/en/1/16/Dance_Dance_Danseur_volume_1_cover.jpg",
     "bposter": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/110/1240110-h-173743118546",
     "type": " Drama",
-    "home":"h",
+    "intro":"เรื่องราวเกี่ยวกับเด็กหนุ่มที่ชื่อว่า จุนเปย์ ที่ตกหลุมรักการเต้นบัลเลต์หลังจากได้ไปชมการแสดงนักแสดงบัลเลต์ชาย แต่แล้วหลังจากเกิดเหตุโศกนาฎกรรมเกิดขึ้นทำให้เขาเลิกเต้นบัลเลต์ไป แต่จะทำยังไงดีในเมื่อหัวใจมันรักเส้นทางนี้ไปแล้ว และไฟแห่งรักของการเต้นบัลเลต์ของเขาได้ถูกจุดขึ้นมาอีกครั้ง",
     "genre": " Drama",
     "url" : "cinema.html",
     "trailer": "BJyYs7W0KHU"
@@ -192,16 +192,16 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/3/86751.jpg",
     "bposter": "https://www.anime-evo.net/wp-content/uploads/2017/12/Shoukoku-no-Altair-review-01.jpg",
     "type": "Adventure, Drama, Fantasy",
-    "home":"h",
+    "intro":"สงครามความขัดแย้งระหว่าง นครรัฐ เตอร์กีเย่ (Turkiye) กับ จักรวรรดิบัลไทลน์ ถึงสถานการณ์จะเริ่มสงบ แต่ไฟสงครามเริ่มปะทุอีกครั้งจากการเสียขุนนางแห่งบัลไทลน์ถูกฆาตกรรมด้วยธนูของฝ่ายตรงข้าม มัฟมูท ปาชาหนุ่มที่เคยสูญเสียแม่ไป ทำให้ต้องการเกิดความสงบสุขและสันติภาพจึงเข้ามาร่วมในกองทัพตั้งแต่เด็ก หวังที่จะขจัดความขัดแย้ง เพื่อปกป้องชาติบ้านเมือง ให้กลับมาร่มเย็นอีกครั้ง แต่ทำให้เขาต้องได้เผชิญหน้ากับทั้งศัตรูที่เป็นปรปักษ์และพวกพ้องที่สนับสนุนเขา",
     "genre": "Adventure, Drama, Fantasy",
     "url" : "cinema.html",
     "trailer": "4OCzcinr-24"
 },{
-    "name": " GARO -VANISHING LINE-",
+    "name": "GARO -VANISHING LINE",
     "sposter": "https://cdn.myanimelist.net/images/anime/7/89845.jpg",
     "bposter": "https://images.everyeye.it/img-articoli/garo-vanishing-line-recensione-serie-amazon-prime-video-recensione-v3-50895-1280x16.jpg",
     "type": "Action, Fantasy, Supernatural",
-    "home":"h",
+    "intro":"เมืองใหญ่รัสเซลซิตี้ ชายที่ชื่อ ซอร์ด ได้ออกตามหาความหมายของคีย์เวิร์ด เอลโดราโด (El Dorado) ที่เป็นปริศนาสำหรับเขา จนเขาได้พบกับโซฟี่ เด็กสาวที่ค้นหาคีย์เวิร์ดเดียวกับเขาซึ่งได้มาจากพี่ชายของเธอก่อนหายตัวไป ในขณะที่ซอร์ดก็เคยเสียน้องสาวไป ทั้งสองค้นหาความหมายของคำนี้ร่วมกันในเมืองรัสเซลซิตี้",
     "genre": "Action, Fantasy, Supernatural",
     "url" : "cinema.html",
     "trailer": "e3Bqexemyfg"
@@ -210,7 +210,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/8/56463.jpg",
     "bposter": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/74106695cd5ac95298e369bf7f5b30c6.jpe",
     "type": "Comedy, Sports",
-    "home":"h",
+    "intro":"แนว Comedy ของ 4 สาวม.ปลายที่อยู่ในคลับเทนนิสแห่งโรงเรียนคาเมย์โด แค่สมาชิกทั้งแก๊ง แทบไม่มีใครจับเทนนิสกันมาก่อน ยกเว้น ยูริจัง..............เรื่องปวดหัวและเอวัง จึงเกิดขึ้น",
     "genre": "Comedy, Sports",
     "url" : "cinema.html",
     "trailer": "4fU886qphRg"
@@ -219,7 +219,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/1948/103308.jpg",
     "bposter": "https://cdn.myanimelist.net/images/anime/1618/99723l.jpg",
     "type": "Adventure, Fantasy",
-    "home":"h",
+    "intro":"นี่คือโลกแห่งสวรรค์ที่ซึ่งเกาะหลายแห่งลอยอยู่บนท้องฟ้า เด็กชายชื่อ Gran และจิ้งจกพูดชื่อ Vyrn อาศัยอยู่ใน Zinkensill เกาะที่สร้างความลึกลับ วันหนึ่งพวกเขาเจอผู้หญิงคนหนึ่งชื่อ Lyria Lyria ได้หลบหนีจาก Erste Empire รัฐบาลทหารที่พยายามปกครองโลกนี้โดยใช้ความสามารถทางทหารที่ทรงพลัง เพื่อหลบหนีจากจักรวรรดิ Gran และ Lyria ออกไปที่ท้องฟ้าอันกว้างใหญ่ถือจดหมายของพ่อของ Gran - ซึ่งเขาพูดว่า \"ฉันจะรอที่ Estalucia, Star Island\"",
     "genre": "Adventure, Fantasy",
     "url" : "cinema.html",
     "trailer": "5W5tvt1WhMo"
@@ -228,7 +228,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
     "bposter": "https://i0.wp.com/www.theanimedaily.com/wp-content/uploads/2021/05/Listeners-Anime-Season-2-3.jpg?resize=1024%2C576&ssl=1",
     "type": "Sci-Fi",
-    "home":"h",
+    "intro":"นโลกที่เคยถูกรุกรานโดยมอนสเตอร์ที่เป็นพวกไร้หู ถูกหยุดโดยพวกเพลเยอร์ที่ใช้หุ่นยนต์สู้กับพวกนั้น เวลาผ่านไปจนถึงแนวคิดทางดนตรีได้หมดยุคสมัยลง เอคโค่ เด็กหนุ่มที่ทำงานในกองขยะอย่างไร้จุดหมาย ได้พบ มิว สาวปริศนาที่มีช่องเสียบแจ็คสัญญาณเสียงอยู่ที่หลังและ เพลเยอร์ แต่เสียความทรงจำ ทั้งสองได้ออกผจญภัยในโลกกว้างด้วยเสียงเพลง",
     "genre": "Sci-Fi",
     "url" : "cinema.html",
     "trailer": "M9dINy-ZDlQ"
@@ -237,16 +237,16 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/1623/111517.jpg",
     "bposter": "https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2020/06/News-Thumbnail-for-FB-640-x-300-13.jpg",
     "type": "Mystery, Romance, Sci-Fi",
-    "home":"h",
+    "intro":"หญิงสาวต้องรับช่วงต่อบริษัทผลิตรายการโทรทัศน์เล็กๆ มิราเคิลแชนแนล ที่กำลังจะล้มละลาย ในฐานะโปรดิวเซอร์ของรายการเรื่องเหนือธรรมชาติ เธอได้พบหนุ่ม 4 คนในสายอาชีพที่ต่างกัน ไซมอน, ฮาคุ, เซ็น, คิระ และกำลังต้องการไขปริศนาพลังพิเศษที่เรียกว่า “Evol” ทำให้เธอมาพัวพันกับเรื่องปาฎิหารย์ที่เกี่ยวข้องถึงหายนะของโลก",
     "genre": "Mystery, Romance, Sci-Fi",
     "url" : "cinema.html",
     "trailer": "ZuT8z7kVlPg"
 },{
-    "name": "The Gymnastics Samurai",
+    "name": "Taisou Zamurai",
     "sposter": "https://cdn.myanimelist.net/images/anime/1484/109365.jpg",
     "bposter": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Taiso-Samurai.jpg/220px-Taiso-Samurai.jpg",
     "type": "Sports",
-    "home":"h",
+    "intro":" ในวงการยิมนาสติกชายของญี่ปุ่น อารางากิ โจทาโร่ อดีตนักยิมนาสติกตัวแทนญี่ปุ่นผู้อุทิศชีวิตให้แก่ยิมนาสติกไม่สามารถแสดงได้ตามที่หวัง ถึงอย่างนั้นก็ฝึกซ้อมอยู่ทุกวี่ทุกวัน แต่วันหนึ่งกลับถูกโค้ชอามาคุสะแนะนำให้ รีไทร์ เรย์ ผู้เป็นลูกสาวสนับสนุนโจทาโร่ผู้เป็นกังวล แต่มีการพบพานที่ทำให้ชะตาของบ้านอารางากิเปลี่ยนไปอย่างใหญ่หลวง",
     "genre": "Sports",
     "url" : "cinema.html",
     "trailer": "_l7Zn8FriSA"
@@ -255,7 +255,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/1611/105459.jpg",
     "bposter": "https://cdn.myanimelist.net/images/anime/1743/111700l.jpg",
     "type": " Action, Comedy, Fantasy, Horror",
-    "home":"h",
+    "intro":"โฮล แหล่งทดลองของผู้ขมังเวท ไคมัน ชายที่ถูกสาปให้เป็นหัวอีกัวน่า เสียความทรงจำในอดีต ตัวเขาออกเดินทางพร้อมเพื่อน ต่อสู้และตามล่าพวกผู้ใช้เวทเพื่อค้นหาเรื่องราวของตน",
     "genre": " Action, Comedy, Fantasy, Horror",
     "url" : "cinema.html",
     "trailer": "OHQvpEQoY_s"
@@ -264,7 +264,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/1432/98659.jpg",
     "bposter": "https://i.ytimg.com/vi/CiI0ntOD1X8/maxresdefault.jpg",
     "type": "Comedy",
-    "home":"h",
+    "intro":"แนว Comedy ของ 4 สาวม.ปลายที่อยู่ในคลับเทนนิสแห่งโรงเรียนคาเมย์โด แค่สมาชิกทั้งแก๊ง แทบไม่มีใครจับเทนนิสกันมาก่อน ยกเว้น ยูริจัง..............เรื่องปวดหัวและเอวัง จึงเกิดขึ้น",
     "genre": "Comedy",
     "url" : "cinema.html",
     "trailer": "WaihsD2kKxc"
@@ -273,7 +273,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/2/76029.jpg",
     "bposter": "https://m.media-amazon.com/images/M/MV5BNTRmYjFiNTMtMjdhMC00ZmI0LTgyNTQtNTJlN2E5MmZhODc3XkEyXkFqcGdeQXVyNDQxNjIwNTI@._V1_QL75_UX500_CR0,212,500,281_.jpg",
     "type": " Action, Fantasy",
-    "home":"h",
+    "intro":"การหวนคืนสู่เหตุการณ์ที่มีความสำคัญยิ่งอีกครั้ง บทล่าสุดของ Garo มีเรื่องราวเกิดขึ้นในสมัยเฮอัน บทนี้จะเจาะลึกถึงความขัดแย้งของ Wolf Knights และการต่อสู้ของพวกเขา นอกจากนี้ยังสำรวจความสัมพันธ์กับเพื่อนและพันธมิตรของเขาด้วย อย่าพลาดภาคที่น่าตื่นเต้นนี้",
     "genre": " Action, Fantasy",
     "url" : "cinema.html",
     "trailer": "5L5_Uyz2Oi4"
@@ -282,7 +282,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/1581/96672.jpg",
     "bposter": "https://f.ptcdn.info/357/034/000/1439308034-bypjg8iaaa-o.jpg",
     "type": "Action, Adventure, Fantasy",
-    "home":"h",
+    "intro":"เนื้อเรื่องเล่าถึงตำนานเมื่อสองพันปีก่อนที่ \"บาฮามุท\" ออกมาลั้ลลาจนดินแดนอาโบ๊ทมอดไหม้ พวกมนุษย์ที่ไร้ปัญญาต่อกรก็ได้แต่หนีและปล่อยให้เป็นหน้าที่ของปิศาจและทวยเทพแทน ผลจากศึกนั้นคาดว่าสามารถผนึกบาฮามุทได้ จนกระทั่งปัจจุบันมาถึง ณ ดินแดน \"ไวเทียร์ป\" มีแม่นางคนนึงต้องการไปที่ \"เฮลเฮ็ม\" ที่นั่นมันมีอะไรซ่อนอยู่กันแน่...",
     "genre": "Action, Adventure, Fantasy",
     "url" : "cinema.html",
     "trailer": "OYdXomC4K-Q"
@@ -291,7 +291,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/11/73503.jpg",
     "bposter": "https://cdn.anicdn.net/media/videos/tmb/100211/1.jpg",
     "type": "Comedy",
-    "home":"h",
+    "intro":"แนว Comedy ของ 4 สาวม.ปลายที่อยู่ในคลับเทนนิสแห่งโรงเรียนคาเมย์โด แค่สมาชิกทั้งแก๊ง แทบไม่มีใครจับเทนนิสกันมาก่อน ยกเว้น ยูริจัง..............เรื่องปวดหัวและเอวัง จึงเกิดขึ้น",
     "genre": "Comedy",
     "url" : "cinema.html",
     "trailer": "DOldrpBlZYs"
@@ -300,7 +300,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/12/83157.jpg",
     "bposter": "https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2018/04/DbAXmjlV4AAHrHB-1024x576.jpg?resize=600%2C338",
     "type": "Action, Fantasy",
-    "home":"h",
+    "intro":"เรื่องราวของมูฟวี่อันนี้ก็จะอยู่ในช่วงหลังจากภาค Garo: Honoo no Kokuin น่าจะสัก 3-4 ปี โดยเลออนได้กลายมาเป็นพี่เลี้ยงควบอาจารย์ของ โรเบอร์โต้ ลูกของพ่อเลออนกับเมียใหม่ ฮิเมน่า ซึ่งตอนนี้มีอายุ 3 ขวบแล้ว ซึ่งในภาคนี้ก็จะมีอัศวินมาไคคนใหม่เข้ามาแจมด้วย แถมพ่อของเลออนที่น่าจะตายไปแล้วก็ยังโผล่มาอีก บอกเลยว่ามันส์แน่นอน !!!",
     "genre": "Action, Fantasy",
     "url" : "cinema.html",
     "trailer": "U41wdlnveRQ"
@@ -309,7 +309,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/12/88505.jpg",
     "bposter": "https://pbs.twimg.com/media/D18Sh7JUkAIITX_.jpg",
     "type": "Sports",
-    "home":"h",
+    "intro":"เรื่องราวของสองเด็กหนุ่มที่ได้มาพบกัน ระหว่าง สึคาโมโตะ สึคุชิ คนที่มีความพยายามแต่ขาดพรสวรรค์ กับ คาซามะ จิน อัจฉริยะฟุตบอลผู้โดดเดี่ยว",
     "genre": "Sports",
     "url" : "cinema.html",
     "trailer": "XN2yaoypaPs"
@@ -318,7 +318,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/1624/103162.jpg",
     "bposter": "https://i.ytimg.com/vi/T9hXc43UlaU/maxresdefault.jpg",
     "type": "Slice of Life",
-    "home":"h",
+    "intro":"ในเมืองแห่งหนึ่งมักจะมีใบปลิวประกาศตามหาสัตว์เลี้ยงมาติดเอาไว้อยู่บ่อยๆ ซึ่งสัตว์เลี้ยงตัวนี้เป็นแมวมีหูสีเหลือง และที่หน้าผากก็มีขนเป็นจุดสีดำมีหางหงิกงอ และหนุ่มน้อยคนหนึ่งที่มีหางพร้อมด้วยหูที่ดูนุ่มนิ่มก็กำลังมองใบปลิวประกาศตามหาแผ่นนี้อยู่ ซึ่งจริงๆแล้วเด็กหนุ่มปริศนาคนนี้ก็คือ...",
     "genre": "Slice of Life",
     "url" : "cinema.html",
     "trailer": "sBBFT-nwmec"
@@ -327,7 +327,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/1054/139139.jpg",
     "bposter": "https://sm.ign.com/ign_in/screenshot/default/yuri-on-ice-film_ec2f.jpg",
     "type": "Sports",
-    "home":"h",
+    "intro":"คัทสึกิ ยูริ แบกรับความหวังของคนทั้งญี่ปุ่นในการแข่งขันฟิกเกอร์สเก็ตกรังด์ปรีซ์ แต่ต้องพบกับความผิดหวังด้วยการพ่ายแพ้หมดรูปในรอบสุดท้าย เขาจึงเดินทางกลับบ้านเกิดในจังหวัดคิวชูเพื่อหลบตัวอยู่ในบ้านของครอบครัวเขาเอง ครึ่งหนึ่งในใจของเขายังอยากที่จะแข่งต่อ แต่อีกครึ่งหนึ่งก็อยากที่จะเกษียนตัวเอง แล้วจู่ๆ แชมป์โลกห้าสมัยซ้อนอย่าง วิคเตอร์ นิคิโฟรอฟ ก็มาตัดสินใจเป็นโค้ชให้กับเขา เรื่องนี้ทำให้ ยูริ พลิเซตสกี้ นักฟิกเกอร์สเก็ตหนุ่มน้อยที่ต้องการจะก้าวข้ามนักกีฬารุ่นพี่รีบเดินทางมาญี่ปุ่น แล้วยูริทั้งสองคนกับแชมป์โลกจากรัสเซียก็ทำการแข่งขันกันในฟิกเกอร์สเก็ตกรังด์ปรีซ์แบบที่ไม่เคยมีใครเห็นมาก่อน",
     "genre": "Sports",
     "url" : "cinema.html",
     "trailer": "8Mk4Uykq5I8"
@@ -336,7 +336,7 @@
     "sposter": "https://cdn.myanimelist.net/images/anime/1137/117403.jpg",
     "bposter": "https://3.bp.blogspot.com/-IpAWFvT9w3E/WPB1MjKaHAI/AAAAAAAAAag/lbaldfWtRsAi3Sbx4h4XcIecpCBaZWv2wCLcB/s1600/maxresdefault%2B%25283%2529.jpg",
     "type": "Slice of Life",
-    "home":"h",
+    "intro":"เมื่อ 20 ปีก่อน เศรษฐกิจญี่ปุ่นย่ำแย่ ความไว้ใจของประชาชนต่อนักการเมืองกำลังถึงขั้นวิกฤต ไอดอลสาว มิคาสึกิ คางุระ ได้เข้ามาช่วยเหลือ ให้ไอดอลเข้ามาสนับสนุนการเมืองจนเศรษฐกิจญี่ปุ่นฟื้นตัวได้ เวลาผ่านไป คางุระ ที่นำรัฐบาลไอดอลญี่ปุ่นได้ตัดสินใจลาออกจากวงการนักการเมือง เรื่องราวของไอดอล 47 คน จากพรรคการเมืองในสภานิติบัญญัติแห่งชาติของญี่ปุ่นในแต่ละจังหวัด ตั้งเป้าที่จะเปลี่ยนแปลงญี่ปุ่นโดยการเต้นและร้องเพลง พร้อมมอบรอยยิ้มให้ทุกคนในประเทศ มุ่งสู่การเป็นนายกรัฐมนตรีคนต่อไป",
     "genre": "Slice of Life",
     "url" : "cinema.html",
     "trailer": "56qJdGgYZdo"
